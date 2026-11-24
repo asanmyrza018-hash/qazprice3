@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-11",
+  "total": 1560,
+  "categories": [
+    {
+      "category": "Бакалея",
+      "url": "https://arzan.kz/kk/astana/c/1045-bakaleya",
+      "count": 1560,
+      "complete": false,
+      "blocker": "Source displayed too many requests: product loading temporarily limited, retry in about60 minutes."
+    },
+    {
+      "category": "Шай, кофе, какао",
+      "count": 1139,
+      "complete": true,
+      "observedAt": "2026-11-12"
+    },
+    {
+      "category": "Снектер",
+      "count": 640,
+      "complete": true,
+      "observedAt": "2026-11-12"
+    },
+    {
+      "category": "Жаңғақтар, шемішке және кептірілген жемістер",
+      "count": 440,
+      "complete": true,
+      "observedAt": "2026-11-12"
+    },
+    {
+      "category": "Нан және нан-тоқаш өнімдері",
+      "count": 771,
+      "complete": true,
+      "observedAt": "2026-11-12"
+    },
+    {
+      "category": "Мұздатылған өнімдер",
+      "count": 1431,
+      "complete": false,
+      "observedAt": "2026-11-12"
+    },
+    {
+      "category": "Тәттілер",
+      "count": 1081,
+      "complete": false,
+      "observedAt": "2026-11-13"
+    },
+    {
+      "category": "Сүт өнімдері мен жұмыртқа",
+      "count": 310,
+      "complete": false,
+      "observedAt": "2026-11-13"
+    }
+  ],
+  "activeCategory": "Бакалея",
+  "cached_dairy": {
+    "date": "2026-10-21",
+    "source_file": "arzan-catalog-raw.json",
+    "clear_full_title_cards_added": 254,
+    "truncated_titles_excluded": true
+  },
+  "source_rate_limit": {
+    "blocked_at_utc": "2026-11-12T04:15:27.956885+00:00",
+    "retry_not_before_utc": "2026-11-12T05:17:27.956885+00:00",
+    "message": "Source requests about 60 minutes; wait 62 minutes."
+  },
+  "remaining_cached_dairy": {
+    "date": "2026-10-21",
+    "source_cards_added": 11,
+    "names": [
+      "Маргарин Щедрое Лето домашний 60% 500г",
+      "Маргарин Rama Classic мягкий 60% 225г",
+      "Маргарин 3 Желания Пампушка 55% 450г",
+      "Спред Златые горы Закрома 82.5% 180г",
+      "Молоко сгущенное ДЕПовское  8.5% 600г",
+      "Молоко Молком топленое 2.5% 900мл",
+      "Маргарин Щедрое Лето сливочный вкус 72% 500г",
+      "Маргарин Щедрое Лето сливочный вкус 72% 200г",
+      "Маргарин Rama Classic мягкий 60% 450г",
+      "Маргарин Щедрое Лето сливочный вкус 72% 1кг",
+      "Напиток кисломолочный Actimel клубника киви 95г"
+    ]
+  },
+  "tea_partial": {
+    "date": "2026-11-12",
+    "saved_cards": 1139,
+    "complete": true
+  },
+  "eggs_source": {
+    "categoryUrl": "https://arzan.kz/kk/astana/c/1932-zhumyrtqa",
+    "visible_cards": 46,
+    "unique_cards": 45,
+    "complete": true,
+    "observedAt": "2026-11-13",
+    "mapped_category": "Сүт өнімдері мен жұмыртқа",
+    "note": "All unfiltered public egg pages checked. Combined dairy category remains incomplete."
+  }
+}

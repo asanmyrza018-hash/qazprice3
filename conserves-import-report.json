@@ -1,0 +1,3099 @@
+{
+  "source_archive": "arzan.kz — Консервілер, тез дайындалатын тағамдар, маринадталған көкөністер_ тауар каталогы Астанада.mhtml",
+  "source_archive_sha256": "01a5c768597d2fa93325ca560f6b8d35426600afa100ab0c7efd1344b51f57ee",
+  "cards": 315,
+  "before": 411,
+  "added": 315,
+  "after": 726,
+  "offers_added": 564,
+  "unavailable_excluded": 31,
+  "skipped": [],
+  "missing_embedded_images": [],
+  "only_data_changed": true,
+  "products": [
+    {
+      "id": 1411,
+      "name": "Лапша Доширак Квисти тауық дәмі 70г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-doshirak-kvisti-tauyq-dami-70g-35068e60-0831-4588-80d2-dea900005da7",
+      "offers": {
+        "small": 119
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1412,
+      "name": "Вермишель Rollton тауық етімен 60г",
+      "source": "https://arzan.kz/kk/astana/p/vermishel-rollton-tauyq-etimen-60g-a3325d8a-b42d-47f0-bb7a-2c636001c7ce",
+      "offers": {
+        "metro": 125,
+        "magnum": 130,
+        "small": 170
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1413,
+      "name": "Вермишель Rollton үй сорпасындағы сиыр еті дәмімен 60г",
+      "source": "https://arzan.kz/kk/astana/p/vermishel-rollton-uy-sorpasyndaghy-siyr-eti-damimen-60g-a558d23e-01f3-494a-8b6e-004852c6eaeb",
+      "offers": {
+        "metro": 125,
+        "magnum": 130,
+        "small": 170
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1414,
+      "name": "Rollton жылдам дайындалатын кеспесі, үй сорпасындағы ащы тауық етімен, 60г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-zhyldam-dayyndalatyn-kespesi-uy-sorpasyndaghy-ashchy-tauyq-etimen-60g-c1fa7e97-c0ce-4ea6-8e70-7e61d774da2b",
+      "offers": {
+        "magnum": 130
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1415,
+      "name": "Айдиго шие және лимон қосылған кисель 30г",
+      "source": "https://arzan.kz/kk/astana/p/aydigo-shie-zhane-limon-qosylghan-kisel-30g-fa9119ad-6d84-40da-964a-bf011c938b57",
+      "offers": {
+        "small": 139
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1416,
+      "name": "Айдиго жеміс-жидекті лезде дайындалатын кисель 30г",
+      "source": "https://arzan.kz/kk/astana/p/aydigo-zhemis-zhidekti-lezde-dayyndalatyn-kisel-30g-d7a7fbdb-0cf5-49f5-9183-b22f812641e2",
+      "offers": {
+        "small": 139
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1417,
+      "name": "Кисель Айдиго алма және шабдалы моментальды 30г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-aydigo-alma-zhane-shabdaly-momentaldy-30g-7a0751a3-0568-42a6-b016-8a663205ac71",
+      "offers": {
+        "small": 139
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1418,
+      "name": "Айдиго тропикалық киселі 30г",
+      "source": "https://arzan.kz/kk/astana/p/aydigo-tropikalyq-kiseli-30g-d6c9aa3d-64f2-47ba-847d-26fe1d07035b",
+      "offers": {
+        "small": 139
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1419,
+      "name": "Лапша Доширак Квисти сиыр еті дәмімен 60г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-doshirak-kvisti-siyr-eti-damimen-60g-fae6a44a-baf9-4fe5-a6d3-9876eade23e5",
+      "offers": {
+        "galmart": 145,
+        "small": 155
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1420,
+      "name": "Кеспе Rollton үйдің сиыр етімен 85г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-rollton-uyding-siyr-etimen-85g-e5f14520-058c-4793-b89c-8756db8ea824",
+      "offers": {
+        "magnum": 165,
+        "small": 179,
+        "metro": 189
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1421,
+      "name": "Кеспе Rollton үйдің ащы тауық еті 85г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-rollton-uyding-ashchy-tauyq-eti-85g-fc2a68ac-25ec-4f66-b675-5d661a096463",
+      "offers": {
+        "magnum": 165,
+        "small": 179,
+        "metro": 189
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1422,
+      "name": "Кеспе Роллтон үйдегідей тауық еті 85г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-rollton-uydegidey-tauyq-eti-85g-8f7ca2b3-ea04-4fd0-90ea-dfb72e629d55",
+      "offers": {
+        "magnum": 165,
+        "small": 179,
+        "galmart": 235
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1423,
+      "name": "Жылдам дайындалатын кеспе Rollton үйдікі ащы сиыр етімен 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-uydiki-ashchy-siyr-etimen-85g-fbaa5bc0-09bb-473a-ac50-4f22e035dfca",
+      "offers": {
+        "magnum": 165,
+        "small": 179,
+        "metro": 189
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1424,
+      "name": "Жылдам дайындалатын кеспе Big Bon тауық еті және сальса соусымен 75г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-tauyq-eti-zhane-salsa-sousymen-75g-a59b84ab-0feb-4288-85ab-818bb242478a",
+      "offers": {
+        "metro": 175,
+        "small": 179,
+        "magnum": 179
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1425,
+      "name": "Сиыр еті дәмі бар қызанақ соусы мен райханы бар тез дайындалатын кеспе Big Bon 75г",
+      "source": "https://arzan.kz/kk/astana/p/siyr-eti-dami-bar-qyzanaq-sousy-men-raykhany-bar-tez-dayyndalatyn-kespe-big-bon-7705fad4-895f-4dc5-9543-ea4932fb0c08",
+      "offers": {
+        "metro": 175,
+        "small": 179,
+        "magnum": 179
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1426,
+      "name": "Жылдам дайындалатын кеспе Rollton кимчи дәмімен 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-kimchi-damimen-85g-1af013a0-ba5a-443f-ba36-406f3c7f7f47",
+      "offers": {
+        "small": 179,
+        "metro": 189,
+        "galmart": 235
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1427,
+      "name": "Быстров тез дайындалатын сүнді ботқасы, черникамен 40г",
+      "source": "https://arzan.kz/kk/astana/p/bystrov-tez-dayyndalatyn-sundi-botqasy-chernikamen-40g-479410f6-a27d-461d-831c-b83b276f17d1",
+      "offers": {
+        "metro": 199
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1428,
+      "name": "Сұлы ботқасы Быстров орман жидектері пісірмейтін 40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-bystrov-orman-zhidekteri-pisirmeytin-40g-23439633-60af-4b62-aa82-cdc0801819c1",
+      "offers": {
+        "metro": 199,
+        "small": 275
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1429,
+      "name": "Сұлы ботқасы Быстров құлпынай сүтпен пісірмейтін 40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-bystrov-qulpynay-sutpen-pisirmeytin-40g-df00c231-88e5-481c-8e07-d806b599ebd8",
+      "offers": {
+        "metro": 199,
+        "small": 275
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1430,
+      "name": "Тез дайындалатын кеспе Биг Ланч сиыр еті мен чили бұрышы қосылған рагу 75г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-kespe-big-lanch-siyr-eti-men-chili-buryshy-qosylghan-ragu-75g-119d4abd-31b1-45a0-af3c-e882b569dc30",
+      "offers": {
+        "small": 205
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1431,
+      "name": "Жылдам дайындалатын кеспе Big Lunch Тауық еті және дәмді шөптермен соте 75г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-lunch-tauyq-eti-zhane-damdi-shoptermen-sote-75g-2c43b154-a831-4e70-9c46-546197ab2b61",
+      "offers": {
+        "small": 205
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1432,
+      "name": "Жылдам дайындалатын кеспе Биг Ланч Паприкаш тауық еті және ащы бұрышпен 75г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-lanch-paprikash-tauyq-eti-zhane-ashchy-buryshpen-0bda5785-bba2-4171-821a-75e3c4866987",
+      "offers": {
+        "small": 205
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1433,
+      "name": "Сұлы ботқасы Увелка таңқурай, кілегей дәмімен 40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-uvelka-tangquray-kilegey-damimen-40g-2ec30258-4853-43f7-89bf-af811ae575f7",
+      "offers": {
+        "small": 230
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1434,
+      "name": "Жылдам дайындалатын кеспе Big Bon ащы тауық еті дәмі бар 75г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-ashchy-tauyq-eti-dami-bar-75g-c537b53a-9f85-4682-b61e-9de38406b125",
+      "offers": {
+        "small": 230
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1435,
+      "name": "Жылдам дайындалатын кеспе Big Bon ащы сиыр еті дәмі бар 75г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-ashchy-siyr-eti-dami-bar-75g-99b38e33-3aa9-44ac-83f4-744d7b522b4c",
+      "offers": {
+        "small": 230
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1436,
+      "name": "Сұлы ботқасы Увелка Құлпынай кілегеймен 40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-uvelka-qulpynay-kilegeymen-40g-369bd536-4487-40ee-8590-1dd8e6ff15f3",
+      "offers": {
+        "small": 230
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1437,
+      "name": "Rollton сүйектегі сиыр еті дәмі бар сорпасы 90г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-suyektegi-siyr-eti-dami-bar-sorpasy-90g-d1925eb5-0bbd-44f3-a13a-68725a193af6",
+      "offers": {
+        "galmart": 235
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1438,
+      "name": "Бойдым Delika сүнді абрикос 43г",
+      "source": "https://arzan.kz/kk/astana/p/boydym-delika-sundi-abrikos-43g-fee9b521-1f99-4e12-b73d-8aba01b19a19",
+      "offers": {
+        "small": 245
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1439,
+      "name": "Тез дайындалатын ботқа Delika сұлы-банан 43г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-botqa-delika-suly-banan-43g-a9cf7ada-7fbe-45e1-a0d2-bed079529f2c",
+      "offers": {
+        "small": 245
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1440,
+      "name": "Delika тез дайындалатын тары ботқасы, асқабақ қосылған 43г",
+      "source": "https://arzan.kz/kk/astana/p/delika-tez-dayyndalatyn-tary-botqasy-asqabaq-qosylghan-43g-5f6bcbd2-72ad-46ce-bf86-608d0e212f37",
+      "offers": {
+        "small": 245
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1441,
+      "name": "Тез дайындалатын ботқа Delika сұлы алмалы 43г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-botqa-delika-suly-almaly-43g-4d55c0ad-07f4-4f93-a05d-2e7c1fdb8ac1",
+      "offers": {
+        "small": 265
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1442,
+      "name": "Тез дайындалатын ботқа Delika сұлы құлпынақылы 43г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-botqa-delika-suly-qulpynaqyly-43g-20cff67d-2dcd-4e72-a17f-8d49836f6d3d",
+      "offers": {
+        "small": 265
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1443,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin Noodle ащы сиыр еті дәмі бар 70г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-ashchy-siyr-eti-dami-bar-70g-b81e8ffe-6dcc-453f-9b36-d51c9c101dca",
+      "offers": {
+        "galmart": 270,
+        "small": 290
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1444,
+      "name": "Сорпа Podravka көкөністер жұлдызшаларымен 52г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-podravka-kokonister-zhuldyzshalarymen-52g-efefcd82-0d98-46bc-b333-f72e394cde39",
+      "offers": {
+        "magnum": 295,
+        "galmart": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1445,
+      "name": "Ысталған ет қосылған бұршақ сорпасы Приправыч 60г",
+      "source": "https://arzan.kz/kk/astana/p/ystalghan-et-qosylghan-burshaq-sorpasy-pripravych-60g-896a2d12-66cc-45d2-8d44-a05318483c71",
+      "offers": {
+        "magnum": 275
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1446,
+      "name": "Биг Ланч сиыр еті, саңырауқұлақ және көк шөптер қосылған тез дайындалатын кеспе 75г",
+      "source": "https://arzan.kz/kk/astana/p/big-lanch-siyr-eti-sangyrauqulaq-zhane-kok-shopter-qosylghan-tez-dayyndalatyn-ke-e9edc195-8d1d-4fc6-b95b-77242bad166f",
+      "offers": {
+        "galmart": 275
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1447,
+      "name": "Сорпа Podravka сиыр еті мен вермишельді 65г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-podravka-siyr-eti-men-vermisheldi-65g-115c5354-5dca-4251-8ea7-c44b060d4174",
+      "offers": {
+        "small": 285,
+        "galmart": 385,
+        "magnum": 385
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1448,
+      "name": "Жылдам дайындалатын Rollton картоп пюресі, құртпалармен, 40г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-rollton-kartop-pyuresi-qurtpalarmen-40g-efd626f6-e198-4dcb-941f-a37318220c0b",
+      "offers": {
+        "metro": 289,
+        "magnum": 304,
+        "galmart": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1449,
+      "name": "Сорпа Podravka вермишель қосылған тауық 62г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-podravka-vermishel-qosylghan-tauyq-62g-6476540d-80e7-4890-8ecc-4c9ab486d3c7",
+      "offers": {
+        "magnum": 295,
+        "galmart": 370,
+        "small": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1450,
+      "name": "Сорпа Приправыч Звездочка 60г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-pripravych-zvezdochka-60g-660761d3-65f9-42ab-b762-bc9a639aebf3",
+      "offers": {
+        "magnum": 299
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1451,
+      "name": "Картоп езбесі Rollton тауық еті дәмімен 40г",
+      "source": "https://arzan.kz/kk/astana/p/kartop-ezbesi-rollton-tauyq-eti-damimen-40g-f5c4c91f-a054-403c-a31b-9808b9c92d48",
+      "offers": {
+        "magnum": 304,
+        "metro": 309,
+        "galmart": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1452,
+      "name": "Rollton жылдам дайындалатын картоп пюресі, ет дәмі бар, 40г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-zhyldam-dayyndalatyn-kartop-pyuresi-et-dami-bar-40g-408fbf01-2ac2-42ed-a149-2032a2ebe350",
+      "offers": {
+        "magnum": 304,
+        "galmart": 365,
+        "small": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1453,
+      "name": "Кеспе Rollton үйдің сиыр етімен ащы 90г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-rollton-uyding-siyr-etimen-ashchy-90g-a9183c0a-0446-4e95-ba2b-450476a8f6c5",
+      "offers": {
+        "metro": 309,
+        "magnum": 345,
+        "galmart": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1454,
+      "name": "Лапша Rollton үйдің ащы тауығымен 90г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-rollton-uyding-ashchy-tauyghymen-90g-212c22cf-8f7f-41cb-a895-26b250160afb",
+      "offers": {
+        "metro": 309,
+        "magnum": 345,
+        "galmart": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1455,
+      "name": "Кеспе Ролтон үйдің сиыр етімен 90г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-rolton-uyding-siyr-etimen-90g-c5bc00d0-bf5a-416f-b298-03bb9915004b",
+      "offers": {
+        "metro": 309,
+        "magnum": 345,
+        "galmart": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1456,
+      "name": "Жылдам дайындалатын кеспе Rollton үйдік тауық еті дәмімен 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-uydik-tauyq-eti-damimen-90g-8e8bae75-dc75-441f-864a-b386435e4499",
+      "offers": {
+        "metro": 309,
+        "magnum": 345,
+        "galmart": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1457,
+      "name": "Кисель Омега жерқұлпынай 170г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-omega-zherqulpynay-170g-6dfa3f6c-d376-4d06-afc3-1e4769e7980e",
+      "offers": {
+        "galmart": 310,
+        "small": 315
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1458,
+      "name": "Омега қара бүлдірген кәуселі 170г",
+      "source": "https://arzan.kz/kk/astana/p/omega-qara-buldirgen-kauseli-170g-545a737c-7f71-4132-b568-5c4da8702319",
+      "offers": {
+        "galmart": 310
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1459,
+      "name": "Кисель Омега құлпынай 170г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-omega-qulpynay-170g-8056f489-92fa-48e5-8b99-084af72e68c6",
+      "offers": {
+        "galmart": 310,
+        "small": 315
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1460,
+      "name": "Омега Орман жидегі киселі 170г",
+      "source": "https://arzan.kz/kk/astana/p/omega-orman-zhidegi-kiseli-170g-ac99a336-65d9-445f-ba37-65898c6ed688",
+      "offers": {
+        "galmart": 310
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1461,
+      "name": "Кисель Омега өрік дәмі бар 170г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-omega-orik-dami-bar-170g-779b2f05-fa6a-4091-86bf-1db6c44794ae",
+      "offers": {
+        "galmart": 310,
+        "small": 315
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1462,
+      "name": "Кисель Омега мүкжидек 170г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-omega-mukzhidek-170g-c569ac53-bbd8-47f5-8009-e00aa4eaf85f",
+      "offers": {
+        "small": 315
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1463,
+      "name": "Сорпа MAGGI Жұлдызша 54г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-maggi-zhuldyzsha-54g-ce5c8d9d-3096-47c3-a58d-a2511f9eb5da",
+      "offers": {
+        "metro": 319,
+        "magnum": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1464,
+      "name": "Жылдам дайындалатын кеспе Rollton тауық етімен 70г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-tauyq-etimen-70g-29317239-8d3c-43a7-812e-da6d11f0c09a",
+      "offers": {
+        "metro": 319,
+        "galmart": 395,
+        "small": 420
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1465,
+      "name": "Delika тез дайындалатын қарақұмық ботқасы, саңырауқұлақпен 43г",
+      "source": "https://arzan.kz/kk/astana/p/delika-tez-dayyndalatyn-qaraqumyq-botqasy-sangyrauqulaqpen-43g-460f3865-fd1e-4825-9651-c7921c5ffad6",
+      "offers": {
+        "small": 325
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1466,
+      "name": "Кеспе Big Bon мексикалық сальса тұздығымен және тауық етімен 95г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-big-bon-meksikalyq-salsa-tuzdyghymen-zhane-tauyq-etimen-95g-40a6cd98-a8f2-40f5-a41c-cecfd5a01683",
+      "offers": {
+        "magnum": 339,
+        "galmart": 340,
+        "small": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1467,
+      "name": "Кеспе Big Bon сиыр еті, қызанақ соусы және базиликпен 85г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-big-bon-siyr-eti-qyzanaq-sousy-zhane-bazilikpen-85g-0bd269da-895c-4d4f-a635-b4ecb51560aa",
+      "offers": {
+        "magnum": 349,
+        "small": 419,
+        "metro": 419
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1468,
+      "name": "Жылдам дайындалатын кеспе Big Bon тауық еті және сальса соусымен 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-tauyq-eti-zhane-salsa-sousymen-85g-0e202e4d-e06e-4dd1-91e4-72d0bc9bf35a",
+      "offers": {
+        "magnum": 349,
+        "small": 368,
+        "metro": 435
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1469,
+      "name": "Доширак жылдам дайындалатын ет дәмі бар пюресі 40г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-zhyldam-dayyndalatyn-et-dami-bar-pyuresi-40g-3d44001f-de12-43ab-9b11-9dde5bcc1243",
+      "offers": {
+        "metro": 359,
+        "galmart": 425
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1470,
+      "name": "Картоп пюресі Доширак тауық дәмі 40г",
+      "source": "https://arzan.kz/kk/astana/p/kartop-pyuresi-doshirak-tauyq-dami-40g-5f00ce7c-ea1d-494e-98b9-6ea9a790596f",
+      "offers": {
+        "metro": 359,
+        "galmart": 425
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1471,
+      "name": "Кисель Приправыч орман жидегі 110г",
+      "source": "https://arzan.kz/kk/astana/p/kisel-pripravych-orman-zhidegi-110g-c6a709db-1b29-45c5-af40-63d11d5b1782",
+      "offers": {
+        "galmart": 360
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1472,
+      "name": "Maggi тауық еті мен вермишелі көжесі 50г",
+      "source": "https://arzan.kz/kk/astana/p/maggi-tauyq-eti-men-vermisheli-kozhesi-50g-0ca3b756-87e2-42a1-92f9-2a3ccf02df62",
+      "offers": {
+        "magnum": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1473,
+      "name": "Сорпа Podravka Алфавит макарон бұйымдарымен және көкөністермен 52г",
+      "source": "https://arzan.kz/kk/astana/p/sorpa-podravka-alfavit-makaron-buyymdarymen-zhane-kokonistermen-52g-20c03623-2678-4b36-8d9b-ee6f8a80e65c",
+      "offers": {
+        "magnum": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1474,
+      "name": "Картоп пюресі Rollton ірімшік дәмімен 40г",
+      "source": "https://arzan.kz/kk/astana/p/kartop-pyuresi-rollton-irimshik-damimen-40g-062aa823-678e-4eb1-b698-84ed09160444",
+      "offers": {
+        "galmart": 365,
+        "small": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1475,
+      "name": "Картоп пюресі Махеевъ сиыр еті мен жасыл пияз қосылған 40г",
+      "source": "https://arzan.kz/kk/astana/p/kartop-pyuresi-makheev-siyr-eti-men-zhasyl-piyaz-qosylghan-40g-044699be-3040-48ba-966b-13fe2d3495c7",
+      "offers": {
+        "small": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1476,
+      "name": "Тез дайындалатын пюре Махеевъ тауық еті және жасыл пияз қосылған, 40г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-pyure-makheev-tauyq-eti-zhane-zhasyl-piyaz-qosylghan-40g-9e66c19a-20c5-4d63-a488-7dd508e0f6ec",
+      "offers": {
+        "small": 365
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1477,
+      "name": "Жылдам дайындалатын кеспе Big Bon рамен ащы сиыр еті дәмі бар 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-ramen-ashchy-siyr-eti-dami-bar-100g-702db198-3ec9-46e8-a8e9-c579e22563f8",
+      "offers": {
+        "metro": 369,
+        "magnum": 395,
+        "galmart": 420
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1478,
+      "name": "Жылдам дайындалатын кеспе Master Kan чили кимчи 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-master-kan-chili-kimchi-100g-aaba9d03-b964-4cc3-b21c-bedbd27d55df",
+      "offers": {
+        "metro": 369,
+        "small": 429
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1479,
+      "name": "Жылдам дайындалатын кеспе Big Bon Рамен кимчи дәмі бар 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-ramen-kimchi-dami-bar-100g-d10aa9f9-6169-4966-b314-d2fff9ca6834",
+      "offers": {
+        "metro": 369,
+        "galmart": 420,
+        "small": 445
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1480,
+      "name": "Жылдам дайындалатын кеспе Big Bon Рамен ірімшік дәмі бар 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-ramen-irimshik-dami-bar-100g-656db8bc-1869-49ce-ae8c-7247f8585431",
+      "offers": {
+        "metro": 369,
+        "galmart": 420,
+        "small": 445
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1481,
+      "name": "Кеспе Big Bon рамен саңырауқұлақ пен сиыр еті 100г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-big-bon-ramen-sangyrauqulaq-pen-siyr-eti-100g-3b8a2b34-34a9-4cf6-9f6e-4c0b9abbf6c1",
+      "offers": {
+        "metro": 369,
+        "galmart": 420,
+        "small": 445
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1482,
+      "name": "Жылдам дайындалатын кеспе Big Bon бұқтырылған сиыр еті мен маринадталған қырыққабат дәмі бар 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-buqtyrylghan-siyr-eti-men-marinadtalghan-qyry-b8ea40c3-50ad-49c3-a50f-735b736f522f",
+      "offers": {
+        "metro": 369
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1483,
+      "name": "Тез дайындалатын кеспе ШИН-ЛАЙН Shin Noodle бұқтырылған сиыр еті дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-kespe-shin-layn-shin-noodle-buqtyrylghan-siyr-eti-dami-bar-90g-578ab699-c7cb-428c-b6fd-0cc96d4a109f",
+      "offers": {
+        "galmart": 375,
+        "magnum": 375,
+        "small": 400
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1484,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin Noodle тауық сорпасы дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-tauyq-sorpasy-dami-bar-90g-7f97c526-2092-4d20-8688-03ce1b6a6460",
+      "offers": {
+        "galmart": 375,
+        "magnum": 375,
+        "small": 400
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1485,
+      "name": "Лапша OkWok ащы тауық дәмі сальса тұздығымен 100г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-okwok-ashchy-tauyq-dami-salsa-tuzdyghymen-100g-bfce9816-471e-4557-9821-ad45b02dd7bd",
+      "offers": {
+        "magnum": 385
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1486,
+      "name": "Жылдам дайындалатын кеспе OkWok сиыр еті дәмімен және сальса соусымен 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-okwok-siyr-eti-damimen-zhane-salsa-sousymen-100g-9f6d0f3a-6836-4e8e-b9e1-03c6e41ba169",
+      "offers": {
+        "magnum": 385
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1487,
+      "name": "Жылдам дайындалатын кеспе OkWok тауық еті дәмі бар ірімшік соусымен 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-okwok-tauyq-eti-dami-bar-irimshik-sousymen-100g-4dc03edb-6791-470c-90ca-b9b54fa7ecce",
+      "offers": {
+        "magnum": 385
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1488,
+      "name": "Кеспе Мастер Кан бұқтырылған сиыр етімен ащы 100г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-master-kan-buqtyrylghan-siyr-etimen-ashchy-100g-6b862070-9f9f-43a9-8973-aff86b29a637",
+      "offers": {
+        "metro": 389,
+        "small": 525,
+        "magnum": 545
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1489,
+      "name": "Rollton кимчи дәмі бар жылдам дайындалатын кеспесі 90г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-kimchi-dami-bar-zhyldam-dayyndalatyn-kespesi-90g-bea709c6-ffcc-4943-9100-7464a47f1e99",
+      "offers": {
+        "galmart": 390,
+        "small": 415
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1490,
+      "name": "Жылдам дайындалатын кеспе Rollton ащы ысталған сиыр еті дәмімен 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-ashchy-ystalghan-siyr-eti-damimen-90g-1fba2dd8-1b54-4888-8888-5b2c8754d329",
+      "offers": {
+        "galmart": 390
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1491,
+      "name": "Тез дайындалатын кеспе Доширак бұзау етінің дәмімен 90г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-kespe-doshirak-buzau-etining-damimen-90g-54274951-e4ac-4b51-a027-28eda0061509",
+      "offers": {
+        "small": 395,
+        "galmart": 470
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1492,
+      "name": "Рамен лапша Big Bon тауық етінің дәмі 100г",
+      "source": "https://arzan.kz/kk/astana/p/ramen-lapsha-big-bon-tauyq-etining-dami-100g-34cbcabd-6d61-4cd6-b3e8-2b3f17734d39",
+      "offers": {
+        "magnum": 395,
+        "galmart": 420,
+        "small": 445
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1493,
+      "name": "Жылдам дайындалатын кеспе Rollton сиыр етімен 70г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-siyr-etimen-70g-3e783af1-1d2c-4452-9111-cb5acc47ad27",
+      "offers": {
+        "galmart": 395,
+        "metro": 682
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1494,
+      "name": "Лезде дайындалатын кеспе Rollton тауық еті цезарь дәмімен 70г",
+      "source": "https://arzan.kz/kk/astana/p/lezde-dayyndalatyn-kespe-rollton-tauyq-eti-tsezar-damimen-70g-bee469d3-48a1-43e8-9a03-ef212bd2fa9e",
+      "offers": {
+        "galmart": 395
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1495,
+      "name": "Rollton ақ саңырауқұлақ қосылған картоп пюресі 55г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-aq-sangyrauqulaq-qosylghan-kartop-pyuresi-55g-0ab3a090-e6dc-49f9-aede-efa706b162a3",
+      "offers": {
+        "metro": 399
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1496,
+      "name": "Rollton брендінің бұқтырылған ет дәмі бар дайын картоп пюресі 55г",
+      "source": "https://arzan.kz/kk/astana/p/rollton-brendining-buqtyrylghan-et-dami-bar-dayyn-kartop-pyuresi-55g-c4283eef-9efb-453a-bde6-e6a851176f06",
+      "offers": {
+        "metro": 399
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1497,
+      "name": "Жылдам дайындалатын кеспе Доширак тауық дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-tauyq-dami-bar-90g-74e3ab0b-c5f2-4c90-8146-8d4de517d513",
+      "offers": {
+        "magnum": 415,
+        "metro": 429,
+        "small": 459
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1498,
+      "name": "Құс етінен жасалған Hame деликатес паштеті 75г",
+      "source": "https://arzan.kz/kk/astana/p/qus-etinen-zhasalghan-hame-delikates-pashteti-75g-59b763a1-945d-4cd8-ac6e-9040eea4b639",
+      "offers": {
+        "small": 415,
+        "magnum": 515,
+        "galmart": 570
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1499,
+      "name": "Күркетауық етінен жасалған Hame деликатес паштеті 75г",
+      "source": "https://arzan.kz/kk/astana/p/kurketauyq-etinen-zhasalghan-hame-delikates-pashteti-75g-c65d94b7-d47e-451f-a57b-5fc8baeb1e46",
+      "offers": {
+        "small": 415,
+        "magnum": 559,
+        "galmart": 570
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1500,
+      "name": "Қаз бауыры бар Hame паштеті 75г",
+      "source": "https://arzan.kz/kk/astana/p/qaz-bauyry-bar-hame-pashteti-75g-b333a162-d246-4e2a-985a-6c6ca1f7865b",
+      "offers": {
+        "small": 415,
+        "magnum": 559,
+        "galmart": 570
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1501,
+      "name": "Доширак сиыр еті дәмі бар лапша 90г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-siyr-eti-dami-bar-lapsha-90g-a3c465f2-5878-4ef8-a239-18095dd5421a",
+      "offers": {
+        "magnum": 415,
+        "metro": 429,
+        "small": 459
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1502,
+      "name": "Жылдам дайындалатын кеспе Siemsam Корей рамені сиыр еті барбекю дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-siemsam-korey-rameni-siyr-eti-barbekyu-dami-bar-90g-344bc217-1978-4afa-a353-ac08796010de",
+      "offers": {
+        "magnum": 415
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1503,
+      "name": "Кеспе Big Bon Wok сиыр етінің дәмімен 85г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-big-bon-wok-siyr-etining-damimen-85g-8b26c60a-c975-4198-9162-f72cf0607ebd",
+      "offers": {
+        "metro": 419,
+        "small": 465,
+        "galmart": 495
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1504,
+      "name": "Биг Ланч сиыр еті мен чили бұрышы қосылған тез дайындалатын кеспе 90г",
+      "source": "https://arzan.kz/kk/astana/p/big-lanch-siyr-eti-men-chili-buryshy-qosylghan-tez-dayyndalatyn-kespe-90g-f615f7c1-4e5a-41b3-a769-3333415ce42e",
+      "offers": {
+        "small": 429
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1505,
+      "name": "Жылдам дайындалатын кеспе Биг Ланч Тауық еті және ащы бұрыш қосылған Паприкаш 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-lanch-tauyq-eti-zhane-ashchy-burysh-qosylghan-pap-1a1153e7-559e-4980-b671-007953e6d97a",
+      "offers": {
+        "small": 429
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1506,
+      "name": "Жылдам дайындалатын кеспе Доширак ащы тауық еті дәмімен 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-ashchy-tauyq-eti-damimen-90g-57754aab-02eb-4d87-9c32-2843a9eeace8",
+      "offers": {
+        "metro": 429,
+        "galmart": 470,
+        "small": 500
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1507,
+      "name": "Лезде дайындалатын кеспе Биг Ланч Соте тауық еті мен хош иісті шөптермен 90г",
+      "source": "https://arzan.kz/kk/astana/p/lezde-dayyndalatyn-kespe-big-lanch-sote-tauyq-eti-men-khosh-iisti-shoptermen-90g-bf8bdcc1-5104-43ee-a52e-7ebb92a67ea9",
+      "offers": {
+        "small": 429
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1508,
+      "name": "Доширак Чан Рамен ащы сиыр еті дәмі бар тез дайындалатын кеспесі 120г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-chan-ramen-ashchy-siyr-eti-dami-bar-tez-dayyndalatyn-kespesi-120g-4abf4091-09ff-4572-a24f-029bd8f5ccdf",
+      "offers": {
+        "magnum": 439,
+        "metro": 559,
+        "galmart": 585
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1509,
+      "name": "Кеспе Siemsam Lanzhou ащы 90г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-siemsam-lanzhou-ashchy-90g-8476cdbe-a6e7-4b69-9e46-377ad24a7269",
+      "offers": {
+        "magnum": 439
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1510,
+      "name": "Лапша Master Kan бұқтырылған сиыр еті және омлетпен 110г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-master-kan-buqtyrylghan-siyr-eti-zhane-omletpen-110g-058a7d54-f6b4-49c5-8f5b-f12db20da58b",
+      "offers": {
+        "magnum": 439,
+        "small": 635,
+        "metro": 799
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1511,
+      "name": "Pervak тауық бауырымен паштеті 95г",
+      "source": "https://arzan.kz/kk/astana/p/pervak-tauyq-bauyrymen-pashteti-95g-669b9065-73d4-4985-a096-a2466c9b7adb",
+      "offers": {
+        "small": 439
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1512,
+      "name": "Pervak күркетауық бауырынан жасалған паштеті 95г",
+      "source": "https://arzan.kz/kk/astana/p/pervak-kurketauyq-bauyrynan-zhasalghan-pashteti-95g-32f6fa03-d0c8-4723-a7b2-1852809bd4e9",
+      "offers": {
+        "small": 439
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1513,
+      "name": "Pervak сиыр бауырынан жасалған деликатес паштеті 95г",
+      "source": "https://arzan.kz/kk/astana/p/pervak-siyr-bauyrynan-zhasalghan-delikates-pashteti-95g-7b3a69b9-33ac-4e0e-8fb6-e5cad12ab57f",
+      "offers": {
+        "small": 439
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1514,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin Noodle ащы сиыр етімен 80г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-ashchy-siyr-etimen-80g-db5638dc-e336-4c97-b9e9-d074fd889e02",
+      "offers": {
+        "galmart": 440,
+        "small": 470
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1515,
+      "name": "Жылдам дайындалатын кеспе Доширак Чан Рамен сиыр еті дәмі бар 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-chan-ramen-siyr-eti-dami-bar-120g-2a20c6eb-87d7-482b-8cb5-f782464c7aa4",
+      "offers": {
+        "magnum": 445,
+        "metro": 559,
+        "galmart": 585
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1516,
+      "name": "Биг Ланч жылдам дайындалатын лапша сиыр еті, саңырауқұлақ және көгілдірікпен 65г",
+      "source": "https://arzan.kz/kk/astana/p/big-lanch-zhyldam-dayyndalatyn-lapsha-siyr-eti-sangyrauqulaq-zhane-kogildirikpen-521363df-5f22-4a19-ba7b-e2c9197e8c4e",
+      "offers": {
+        "galmart": 455
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1517,
+      "name": "Қытай кеспесі Siemsam Сычуаньша бұқтырылған сиыр етінің дәмі 90гр",
+      "source": "https://arzan.kz/kk/astana/p/qytay-kespesi-siemsam-sychuansha-buqtyrylghan-siyr-etining-dami-90gr-5e59ac65-2943-4762-8003-83b5a2151c3c",
+      "offers": {
+        "magnum": 458
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1518,
+      "name": "Fit Effectum қантсыз витаминделген мүкжидек киселі 30г",
+      "source": "https://arzan.kz/kk/astana/p/fit-effectum-qantsyz-vitamindelgen-mukzhidek-kiseli-30g-0bb89480-97dc-44b1-b16f-f98d8e3b44d8",
+      "offers": {
+        "galmart": 460
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1519,
+      "name": "Жылдам дайындалатын кеспе Bibigo Ramyun Spicy Tteokbokki ащы 122г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-bibigo-ramyun-spicy-tteokbokki-ashchy-122g-ff2bdc57-5ac5-4c02-b853-b0bc74edd7b5",
+      "offers": {
+        "small": 465,
+        "galmart": 705
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1520,
+      "name": "Тез дайындалатын кеспе Bibigo Ramyun Smoky Kimchi дәмімен 122г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-kespe-bibigo-ramyun-smoky-kimchi-damimen-122g-a60c3aa8-2123-4c8f-b8f6-c66fd087fe46",
+      "offers": {
+        "small": 465
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1521,
+      "name": "Жылдам дайындалатын кеспе Bibigo Ramyun Smoky K-Chicken 122г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-bibigo-ramyun-smoky-k-chicken-122g-38ab5b8d-1111-4258-959e-69b7228a791f",
+      "offers": {
+        "small": 465,
+        "galmart": 705
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1522,
+      "name": "Жылдам дайындалатын кеспе Bibigo Ramyun тауық дәмі бар K-Chicken 122г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-bibigo-ramyun-tauyq-dami-bar-k-chicken-122g-2fc38381-667e-42fd-87bb-9118a5cb1e71",
+      "offers": {
+        "small": 465
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1523,
+      "name": "Жылдам дайындалатын кеспе Oki Noodle Classic сиыр еті дәмімен 95г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-oki-noodle-classic-siyr-eti-damimen-95g-0db24725-df95-448b-bb12-75601f1e0c71",
+      "offers": {
+        "galmart": 465,
+        "magnum": 559,
+        "small": 560
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1524,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin Noodle Lanzhou сиыр етінің ащы дәмі 110г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-lanzhou-siyr-etining-ashchy-dam-94223855-5963-4ac2-bacc-d5206c778341",
+      "offers": {
+        "small": 465
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1525,
+      "name": "Кеспе Доширак Кимчи лоток 90г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-doshirak-kimchi-lotok-90g-080b56fe-9642-46c3-8d50-0a4f806d7e84",
+      "offers": {
+        "galmart": 470,
+        "small": 500,
+        "magnum": 504
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1526,
+      "name": "Жылдам дайындалатын кеспе Bibigo Cheese Tteokbokki ірімшікпен 127г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-bibigo-cheese-tteokbokki-irimshikpen-127g-267102d4-badc-4da9-9a8d-5c7e6e3d43f1",
+      "offers": {
+        "small": 475,
+        "galmart": 730
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1527,
+      "name": "Лапша Rollton отты-ащы чили тауық етімен 100г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-rollton-otty-ashchy-chili-tauyq-etimen-100g-b38d085c-9690-40f0-b211-2de0ffc3c869",
+      "offers": {
+        "small": 475
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1528,
+      "name": "Тез дайындалатын кеспе Биг Ланч Соте тауық еті және дәмді шөптермен 65г",
+      "source": "https://arzan.kz/kk/astana/p/tez-dayyndalatyn-kespe-big-lanch-sote-tauyq-eti-zhane-damdi-shoptermen-65g-3e802b21-3421-4614-b8e0-51659d5a8c24",
+      "offers": {
+        "small": 475
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1529,
+      "name": "Жылдам дайындалатын кеспе Rollton отты ащы чили сиыр етімен 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-rollton-otty-ashchy-chili-siyr-etimen-100g-1659d9f9-2f6f-4bc5-b201-103067b91b83",
+      "offers": {
+        "small": 475
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1530,
+      "name": "Жылдам дайындалатын кеспе Big Bon сиыр еті гриль 95г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-siyr-eti-gril-95g-9b3e9ae5-6c9b-4e8a-8079-56f445114ab3",
+      "offers": {
+        "metro": 479,
+        "magnum": 545,
+        "galmart": 560
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1531,
+      "name": "Жылдам дайындалатын кеспе Big Bon Max тауық етімен және ащы соусымен 95г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-max-tauyq-etimen-zhane-ashchy-sousymen-95g-95a7a060-14ed-4939-a880-f00d303b9ef9",
+      "offers": {
+        "metro": 479,
+        "magnum": 542,
+        "small": 595
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1532,
+      "name": "Доширак ірімшік дәмі бар дайын картоп пюресі, 40г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-irimshik-dami-bar-dayyn-kartop-pyuresi-40g-af7174bf-63eb-4b5e-b058-271aaa370745",
+      "offers": {
+        "galmart": 480
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1533,
+      "name": "Доширак бұқтырылған ет қосылған жылдам дайындалатын картоп пюресі 40г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-buqtyrylghan-et-qosylghan-zhyldam-dayyndalatyn-kartop-pyuresi-40g-01fc3518-d0e7-42b9-a39b-45c266e412ea",
+      "offers": {
+        "galmart": 480
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1534,
+      "name": "Жылдам дайындалатын кеспе Big Bon Wok тауық терияки дәмі бар 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-wok-tauyq-teriyaki-dami-bar-85g-5b1242ec-a452-4c58-9997-ec9483b9c6d5",
+      "offers": {
+        "magnum": 485,
+        "galmart": 495,
+        "small": 530
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1535,
+      "name": "Жылдам дайындалатын кеспе Master Kan бұқтырылған сиыр етімен 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-master-kan-buqtyrylghan-siyr-etimen-85g-c390e7b0-c3b5-445e-be33-73853c507770",
+      "offers": {
+        "metro": 489,
+        "small": 539,
+        "magnum": 566
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1536,
+      "name": "Кеспе Доширак Чан Рамен тауық дәмі 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-doshirak-chan-ramen-tauyq-dami-120g-2176cb37-5ce2-486f-9c9f-f8e251082faf",
+      "offers": {
+        "metro": 499,
+        "magnum": 545,
+        "galmart": 585
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1537,
+      "name": "SK тәтті жүгерісі, дәндерімен, 340г",
+      "source": "https://arzan.kz/kk/astana/p/sk-tatti-zhugerisi-danderimen-340g-263e6f45-8fa5-4dd6-afe1-cb36eef16087",
+      "offers": {
+        "small": 499
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1538,
+      "name": "Жылдам дайындалатын кеспе Доширак теңіз өнімдерінің дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-tengiz-onimderining-dami-bar-90g-970fabb4-27a7-49c4-8bd1-bbee50c2848d",
+      "offers": {
+        "small": 500
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1539,
+      "name": "Жылдам дайындалатын кеспе Доширак саңырауқұлақ дәмі бар 90г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-sangyrauqulaq-dami-bar-90g-d0e4c685-fb3c-4fe8-bf12-9f26516b1b3c",
+      "offers": {
+        "small": 500
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1540,
+      "name": "Le Pate күркетауық етінен жасалған паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/le-pate-kurketauyq-etinen-zhasalghan-pashteti-100g-ff2c9cbf-68ae-4ec3-8d4d-7889cacc1824",
+      "offers": {
+        "small": 525
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1541,
+      "name": "Le Pate қаз бауырынан жасалған кілегейлі паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/le-pate-qaz-bauyrynan-zhasalghan-kilegeyli-pashteti-100g-994e47c2-24db-4c90-a6aa-2197ba44a9f5",
+      "offers": {
+        "small": 525
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1542,
+      "name": "Шампиньон саңырауқұлақтары Выгодно кесілген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/shampinon-sangyrauqulaqtary-vygodno-kesilgen-425ml-bda822f5-21fb-4b18-a6cb-0a9350e480c6",
+      "offers": {
+        "small": 529
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1543,
+      "name": "Жылдам дайындалатын кеспе Big Bon Wok Кочуджан соусы 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-wok-kochudzhan-sousy-85g-08a3faad-0b68-4c30-aed3-41bcd9c7072f",
+      "offers": {
+        "small": 530
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1544,
+      "name": "Жылдам дайындалатын кеспе Big Bon Wok Якисоба жапонияша соусы 85г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-big-bon-wok-yakisoba-zhaponiyasha-sousy-85g-cc0bdcac-a53d-47b3-bf76-10408da53248",
+      "offers": {
+        "small": 530
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1545,
+      "name": "Green Ray қызыл үрмебұршағы қызанақ тұздығында 400г",
+      "source": "https://arzan.kz/kk/astana/p/green-ray-qyzyl-urmeburshaghy-qyzanaq-tuzdyghynda-400g-9d6c044d-3abf-4deb-8f37-0a0045c2bf65",
+      "offers": {
+        "small": 535
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1546,
+      "name": "Бұршақ Выгодно қызыл 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-vygodno-qyzyl-400g-00778056-f93c-44ed-823f-ffa29d8cb05a",
+      "offers": {
+        "small": 539
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1547,
+      "name": "Салат MAGNUM пекин капустасы ащы чимчи 250г",
+      "source": "https://arzan.kz/kk/astana/p/salat-magnum-pekin-kapustasy-ashchy-chimchi-250g-84739ffb-a1b7-4e40-9de8-83b1eaa1f886",
+      "offers": {
+        "magnum": 540
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1548,
+      "name": "Паштет За Родину ыстық ысталған килька мен салакадан жасалған шпротты 170г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-za-rodinu-ystyq-ystalghan-kilka-men-salakadan-zhasalghan-shprotty-170g-df3f86c5-cf7e-4c53-b2ba-1ad22ceeaff6",
+      "offers": {
+        "magnum": 549
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1549,
+      "name": "Кеспе Shin Noodle ет тұздығы 100г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-shin-noodle-et-tuzdyghy-100g-9f7d7d25-8485-4128-b3e5-10eea1567615",
+      "offers": {
+        "small": 559,
+        "magnum": 559
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1550,
+      "name": "Сұлы ботқасы Увелка құлпынай қосылған жылдам дайындалатын 5х40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-uvelka-qulpynay-qosylghan-zhyldam-dayyndalatyn-5kh40g-01a92000-a525-4ce5-92a4-7e73473ef87c",
+      "offers": {
+        "magnum": 559,
+        "small": 815,
+        "galmart": 950
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1551,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin Noodle ащы сиыр еті дәмі бар 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-ashchy-siyr-eti-dami-bar-100g-23a86dd2-cd83-4cb9-8090-50aa45059cfe",
+      "offers": {
+        "small": 559,
+        "magnum": 559,
+        "galmart": 690
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1552,
+      "name": "Жылдам дайындалатын кеспе Master Kan Дапанджи тауық етімен, 97г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-master-kan-dapandzhi-tauyq-etimen-97g-339d6826-94a7-41f2-bf18-51e962d1cb78",
+      "offers": {
+        "metro": 569,
+        "small": 1125
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1553,
+      "name": "OkWok тауық еті мен сальса тұздығы қосылған дайын лапша, 120г",
+      "source": "https://arzan.kz/kk/astana/p/okwok-tauyq-eti-men-salsa-tuzdyghy-qosylghan-dayyn-lapsha-120g-3d0e13f1-d9f0-4f42-ac81-b8342304cda3",
+      "offers": {
+        "magnum": 575
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1554,
+      "name": "OkWok сиыр еті дәмі бар сальса тұздығы қосылған дайын лапша 120г",
+      "source": "https://arzan.kz/kk/astana/p/okwok-siyr-eti-dami-bar-salsa-tuzdyghy-qosylghan-dayyn-lapsha-120g-98597026-09c1-4376-ae2a-6967c58de700",
+      "offers": {
+        "magnum": 575
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1555,
+      "name": "Кэмми үйдегідей саңырауқұлақ сорпасы қосылған кеспе сорпасы 120г",
+      "source": "https://arzan.kz/kk/astana/p/kemmi-uydegidey-sangyrauqulaq-sorpasy-qosylghan-kespe-sorpasy-120g-389b4aa0-eba9-4d2b-8ed0-e202ee8f27ce",
+      "offers": {
+        "magnum": 575
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1556,
+      "name": "Жылдам дайындалатын кеспе Кэмми тауық сорпасымен және көк шөппен 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-kemmi-tauyq-sorpasymen-zhane-kok-shoppen-100g-bb154796-a913-48b8-ab7d-bcb1d3fa9842",
+      "offers": {
+        "magnum": 575
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1557,
+      "name": "Кэмми үй жағдайындағы сиыр сорпасы қосылған кеспе сорпасы 110г",
+      "source": "https://arzan.kz/kk/astana/p/kemmi-uy-zhaghdayyndaghy-siyr-sorpasy-qosylghan-kespe-sorpasy-110g-4fc8c0ef-b58c-46f8-900f-4402881ea6b8",
+      "offers": {
+        "magnum": 575
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1558,
+      "name": "Паштет Hame күркетауық деликатес 105г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-hame-kurketauyq-delikates-105g-cf7052b9-a826-4c2d-87a4-5f1e11c803e9",
+      "offers": {
+        "magnum": 579,
+        "galmart": 845,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1559,
+      "name": "Жүгері Globus дән түріндегі тәтті консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-globus-dan-turindegi-tatti-konservilengen-425ml-fbc5fc96-90f6-4991-bc6b-b143a99bf005",
+      "offers": {
+        "magnum": 579,
+        "small": 715,
+        "galmart": 770
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1560,
+      "name": "Лапша Do Ramen тауық етінің дәмі 103г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-do-ramen-tauyq-etining-dami-103g-dabcfb50-2f5b-459e-b006-027acd437a7a",
+      "offers": {
+        "magnum": 579,
+        "small": 649
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1561,
+      "name": "Жылдам дайындалатын кеспе Доширак Чан Рамен ащы қуырылған 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-doshirak-chan-ramen-ashchy-quyrylghan-120g-d187fb15-7a5a-484c-9af9-3a42075f797d",
+      "offers": {
+        "metro": 579,
+        "small": 625
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1562,
+      "name": "Паштет Hame деликатесті, қаз бауырынан 105г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-hame-delikatesti-qaz-bauyrynan-105g-145a7516-70d4-43ce-85ff-1c4438cbd3d7",
+      "offers": {
+        "magnum": 589,
+        "galmart": 845,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1563,
+      "name": "Жүгері Bonduelle тәтті кілті бар 212мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-bonduelle-tatti-kilti-bar-212ml-e44da8c4-55de-4f02-b9d9-31e910c632d3",
+      "offers": {
+        "small": 589,
+        "galmart": 665,
+        "magnum": 679
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1564,
+      "name": "Кеспе Do Ramen классикалық саңырауқұлақ пен сиыр еті 109г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-do-ramen-klassikalyq-sangyrauqulaq-pen-siyr-eti-109g-0c8a230f-3418-4429-a00b-bc490c6fe154",
+      "offers": {
+        "small": 590
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1565,
+      "name": "Бұршақ Штурвал жасыл 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-shturval-zhasyl-400g-1252ba43-cc1b-42fa-8c15-c678197dcd8a",
+      "offers": {
+        "small": 595
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1566,
+      "name": "Кеспе Nongshim Kimchi Ramyun 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-nongshim-kimchi-ramyun-120g-b178a121-a1c5-427b-96a9-0a57af7584b9",
+      "offers": {
+        "magnum": 596,
+        "galmart": 1015
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1567,
+      "name": "Жасыл бұршақ Globus кілтімен 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhasyl-burshaq-globus-kiltimen-425ml-63e0180a-11d0-4d2e-b865-814b06efd37f",
+      "offers": {
+        "magnum": 599,
+        "small": 715,
+        "galmart": 815
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1568,
+      "name": "Бұршақ Выгодно ақ консервіленген 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-vygodno-aq-konservilengen-400g-99c709c5-d118-4a4f-b3c6-28cde72e633d",
+      "offers": {
+        "small": 599
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1569,
+      "name": "Каспий килькасы Вкусные Консервы томат тұздығында 240г",
+      "source": "https://arzan.kz/kk/astana/p/kaspiy-kilkasy-vkusnye-konservy-tomat-tuzdyghynda-240g-b49ed931-0a29-45b1-9df8-816a3faa050f",
+      "offers": {
+        "small": 599
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1570,
+      "name": "Доширак Премиум тауық қосылған картоп пюресі 52г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-premium-tauyq-qosylghan-kartop-pyuresi-52g-4f6519ba-3dab-4eac-9d50-266d257f0468",
+      "offers": {
+        "galmart": 600
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1571,
+      "name": "Жылдам дайындалатын кеспе Oki Classic сиыр етімен 106г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-oki-classic-siyr-etimen-106g-ad24731f-4354-48b9-96a6-a1a46c8b065e",
+      "offers": {
+        "galmart": 605,
+        "magnum": 729,
+        "small": 730
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1572,
+      "name": "Жылдам дайындалатын кеспе Oki Ramen Carbonara ірімшік және тауық еті дәмімен 111г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-oki-ramen-carbonara-irimshik-zhane-tauyq-eti-damimen-f5d5ad35-f052-44aa-a51c-c17050c76590",
+      "offers": {
+        "galmart": 605,
+        "magnum": 729,
+        "small": 730
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1573,
+      "name": "Oki Ramen кимчи ірімшік қосылған сиыр етімен дайын лапша 109г",
+      "source": "https://arzan.kz/kk/astana/p/oki-ramen-kimchi-irimshik-qosylghan-siyr-etimen-dayyn-lapsha-109g-2e8208e8-fa00-47da-9eff-0cab2755c772",
+      "offers": {
+        "galmart": 605,
+        "magnum": 685,
+        "small": 730
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1574,
+      "name": "Кеспе Доширак Cheese рамен ірімшік 110г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-doshirak-cheese-ramen-irimshik-110g-44110ed7-616c-4061-8e8c-8e42cdcfd803",
+      "offers": {
+        "magnum": 609,
+        "metro": 689,
+        "galmart": 725
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1575,
+      "name": "Биг Ланч тауық еті мен тұздығы бар жылдам дайындалатын пюре 50г",
+      "source": "https://arzan.kz/kk/astana/p/big-lanch-tauyq-eti-men-tuzdyghy-bar-zhyldam-dayyndalatyn-pyure-50g-d35f02a4-9edc-45e6-8a24-1efafceaf8f9",
+      "offers": {
+        "galmart": 610
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1576,
+      "name": "Жылдам дайындалатын кеспе Hanidak ащы тауық еті дәмі бар 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-hanidak-ashchy-tauyq-eti-dami-bar-120g-b174c41f-5875-454d-ba44-4736490c3cad",
+      "offers": {
+        "galmart": 610,
+        "small": 650
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1577,
+      "name": "Жылдам дайындалатын пюре Биг Ланч сиыр еті қосылған соусымен 50г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-pyure-big-lanch-siyr-eti-qosylghan-sousymen-50g-b02e7405-a9b4-4d48-9d99-def4035a1125",
+      "offers": {
+        "galmart": 610
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1578,
+      "name": "Жас жүгері Bonduelle консервіленген 212мл",
+      "source": "https://arzan.kz/kk/astana/p/zhas-zhugeri-bonduelle-konservilengen-212ml-2f14da27-1c96-4af5-9668-9cad81f73724",
+      "offers": {
+        "metro": 619,
+        "magnum": 755,
+        "galmart": 800
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1579,
+      "name": "Зімбір Asia Fest Laiwu Taifeng сіркеде маринадталған 200г",
+      "source": "https://arzan.kz/kk/astana/p/zimbir-asia-fest-laiwu-taifeng-sirkede-marinadtalghan-200g-e63a6944-3421-4edc-b49b-da9cb823b11c",
+      "offers": {
+        "magnum": 619
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1580,
+      "name": "Дайын лапша Доширак Чан Рамен Black Pasta 120г",
+      "source": "https://arzan.kz/kk/astana/p/dayyn-lapsha-doshirak-chan-ramen-black-pasta-120g-5b0b6bb8-e8e2-4de1-960a-d1d4ec4cc3fc",
+      "offers": {
+        "small": 625
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1581,
+      "name": "Бұршақ Bonduelle консервіленген нәзік 212мл",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-bonduelle-konservilengen-nazik-212ml-3f565787-3c4d-4e04-96d5-c322f9de2dbe",
+      "offers": {
+        "metro": 629,
+        "small": 655,
+        "galmart": 695
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1582,
+      "name": "Бұршақ Выгодно қызыл, томат тұздығындағы 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-vygodno-qyzyl-tomat-tuzdyghyndaghy-400g-0a278484-65ca-4c87-abf4-6dbfa7d8af59",
+      "offers": {
+        "small": 649
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1583,
+      "name": "Кеспе Hanidak ащы тауық дәмі 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-hanidak-ashchy-tauyq-dami-120g-4ee7d344-4e02-4d29-8424-00c7ea10e5fd",
+      "offers": {
+        "small": 650
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1584,
+      "name": "Улан бауыр паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/ulan-bauyr-pashteti-100g-5c5bffa5-29ff-45c1-86e0-02b85f753507",
+      "offers": {
+        "galmart": 650
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1585,
+      "name": "Жүгері Green Ray тәтті 425г",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-green-ray-tatti-425g-5b2729b8-8769-4e75-9d26-025fe8cd4556",
+      "offers": {
+        "small": 655
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1586,
+      "name": "Бұршақ Green Ray 425г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-green-ray-425g-9fc3789d-9ec9-4438-97ff-348502cc16d2",
+      "offers": {
+        "small": 655
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1587,
+      "name": "Жылдам дайындалатын кеспе Master Kan \"7 бұрыш\" ыдыс 130г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-master-kan-7-burysh-ydys-130g-a8c831a0-9c7e-4263-b9cb-6dd3daf6a534",
+      "offers": {
+        "metro": 659,
+        "galmart": 1085
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1588,
+      "name": "Кеспе Master Kan бұқтырылған сиыр етімен 140г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-master-kan-buqtyrylghan-siyr-etimen-140g-b08c5d74-af6f-42db-bcb9-ff8b6f9be1d1",
+      "offers": {
+        "metro": 659
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1589,
+      "name": "Үзбе Globus қызыл консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/uzbe-globus-qyzyl-konservilengen-425ml-6df6581d-da4c-412a-a135-e60d8e18d984",
+      "offers": {
+        "magnum": 669,
+        "galmart": 860
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1590,
+      "name": "Жүгері Vernet тәтті 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-vernet-tatti-425ml-555325a1-b340-44b7-9a02-f8d291dac8a4",
+      "offers": {
+        "metro": 669,
+        "galmart": 775
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1591,
+      "name": "Бұршақ Дядя Ваня жасыл 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-dyadya-vanya-zhasyl-400g-9ced4b70-99a1-418e-9892-5eb87a0dc418",
+      "offers": {
+        "small": 675,
+        "magnum": 729,
+        "metro": 849
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1592,
+      "name": "Жүгері Дядя Ваня деликатесті консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-dyadya-vanya-delikatesti-konservilengen-425ml-6f242511-1305-4312-90e0-d0762556f52a",
+      "offers": {
+        "metro": 679,
+        "small": 725,
+        "magnum": 805
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1593,
+      "name": "Жылдам дайындалатын кеспе Кэмми кимчи көкпен 95г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-kemmi-kimchi-kokpen-95g-76d608a9-201f-4e77-a0d3-98503fca9446",
+      "offers": {
+        "galmart": 680
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1594,
+      "name": "Кэмми тез дайындалатын кеспесі кан-ши соусымен және көк шөптермен 110г",
+      "source": "https://arzan.kz/kk/astana/p/kemmi-tez-dayyndalatyn-kespesi-kan-shi-sousymen-zhane-kok-shoptermen-110g-20c58565-ff8f-4a6e-baba-30e7279b5601",
+      "offers": {
+        "galmart": 680
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1595,
+      "name": "Жылдам дайындалатын кеспе Nongshim Neoguri теңіз өнімдерімен 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-neoguri-tengiz-onimderimen-120g-2b5d0833-edaa-4fee-8364-650cd0c7cc37",
+      "offers": {
+        "magnum": 685,
+        "galmart": 1135
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1596,
+      "name": "Le Pate окорогы мен тауық бауыры қосылған паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/le-pate-okorogy-men-tauyq-bauyry-qosylghan-pashteti-100g-dd22c86a-e78a-463c-bb41-691763374c08",
+      "offers": {
+        "small": 685
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1597,
+      "name": "Жылдам дайындалатын кеспе ШИН-ЛАЙН Shin noodle бұқтырылған сиыр еті дәмі бар 100г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-shin-layn-shin-noodle-buqtyrylghan-siyr-eti-dami-bar-78b7e6cc-4996-4b11-b344-b59d2fd1b9a7",
+      "offers": {
+        "galmart": 690
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1598,
+      "name": "Лапша Master Kan Chilli Kimchi кесе 100г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-master-kan-chilli-kimchi-kese-100g-395d9e5e-83b2-4f71-a5d9-57240c9ff85d",
+      "offers": {
+        "metro": 699,
+        "magnum": 845,
+        "galmart": 860
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1599,
+      "name": "FISH MASTER томат соусындағы килькасы 240г",
+      "source": "https://arzan.kz/kk/astana/p/fish-master-tomat-sousyndaghy-kilkasy-240g-28e46063-01bc-438b-a56c-9f7d5cb41e85",
+      "offers": {
+        "small": 699
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1600,
+      "name": "Тұзды қырыққабат 500г",
+      "source": "https://arzan.kz/kk/astana/p/tuzdy-qyryqqabat-500g-cd118866-b583-45d0-8929-8cf1cad7c56c",
+      "offers": {
+        "magnum": 700
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1601,
+      "name": "Тұзды қияр Vlasic 500г",
+      "source": "https://arzan.kz/kk/astana/p/tuzdy-qiyar-vlasic-500g-c24272e3-38fe-433e-91b9-1179f35276b0",
+      "offers": {
+        "magnum": 700
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1602,
+      "name": "Доширак Плюс сиыр еті дәмі бар жылдам дайындалатын кеспе 105г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-plyus-siyr-eti-dami-bar-zhyldam-dayyndalatyn-kespe-105g-24898ca0-6319-4ffe-9d62-5bacb39baf82",
+      "offers": {
+        "small": 700
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1603,
+      "name": "Hame құс етінен жасалған деликатес паштеті 105г",
+      "source": "https://arzan.kz/kk/astana/p/hame-qus-etinen-zhasalghan-delikates-pashteti-105g-ac0794c5-ff55-418c-a84e-94fce424ef1b",
+      "offers": {
+        "magnum": 705,
+        "galmart": 845,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1604,
+      "name": "Жасыл бұршақ Vernet 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhasyl-burshaq-vernet-425ml-4c2f1188-f86c-480a-9238-3639ee9ec0c0",
+      "offers": {
+        "metro": 709
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1605,
+      "name": "Кеспе Yakuza Ramen сиыр еті 110г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-yakuza-ramen-siyr-eti-110g-73a3c0ac-bc76-4115-ba13-744002a9e4d4",
+      "offers": {
+        "galmart": 710
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1606,
+      "name": "Лапша Nongshim Shin Ramen 120г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-nongshim-shin-ramen-120g-a1994714-6a5f-4a7b-b2d2-82a417b1b8a6",
+      "offers": {
+        "magnum": 715,
+        "galmart": 1015,
+        "small": 1025
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1607,
+      "name": "Арпа ботқасы Bizhan сиыр еті қосылған 250г",
+      "source": "https://arzan.kz/kk/astana/p/arpa-botqasy-bizhan-siyr-eti-qosylghan-250g-5cf1a378-37e1-4fc8-9b12-bced057372a7",
+      "offers": {
+        "small": 715
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1608,
+      "name": "Қырыққабат Соленыч ашытылған қытайлық 450г",
+      "source": "https://arzan.kz/kk/astana/p/qyryqqabat-solenych-ashytylghan-qytaylyq-450g-f2305823-6560-4118-8f02-a5c820cca8ee",
+      "offers": {
+        "magnum": 719,
+        "galmart": 735
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1609,
+      "name": "Штурвал балтық килькасы қуырылған томат тұзды соусында 250г",
+      "source": "https://arzan.kz/kk/astana/p/shturval-baltyq-kilkasy-quyrylghan-tomat-tuzdy-sousynda-250g-d224d3ad-e89e-4dbe-98df-a3603c82a176",
+      "offers": {
+        "small": 719
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1610,
+      "name": "Кеспе Master Kan Dapanji 97г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-master-kan-dapanji-97g-b4c01436-6285-4df3-ac13-cdfb5c36e774",
+      "offers": {
+        "magnum": 725,
+        "small": 750,
+        "metro": 829
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1611,
+      "name": "Балтық килькасы Кублей бөлінбеген томат тұздығында 240г",
+      "source": "https://arzan.kz/kk/astana/p/baltyq-kilkasy-kubley-bolinbegen-tomat-tuzdyghynda-240g-b29b2c94-f85a-4862-a646-2349ce0e79b9",
+      "offers": {
+        "small": 725,
+        "magnum": 819
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1612,
+      "name": "Улан ет паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/ulan-et-pashteti-100g-0d2c8c9d-3779-4c9e-99ae-b865ea07d221",
+      "offers": {
+        "metro": 729,
+        "galmart": 780
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1613,
+      "name": "Кеспе Samyang Рамен ащы 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-samyang-ramen-ashchy-120g-3792c6ac-e830-4109-ae23-b593fcda6c97",
+      "offers": {
+        "metro": 729,
+        "magnum": 729,
+        "galmart": 1020
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1614,
+      "name": "Жасұсақ 3 ЖЕЛАНИЯ жасыл нәзік 400г",
+      "source": "https://arzan.kz/kk/astana/p/zhasusaq-3-zhelaniya-zhasyl-nazik-400g-f8ad3301-9365-4fc3-a032-6cc1c3995ba6",
+      "offers": {
+        "small": 729,
+        "galmart": 875
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1615,
+      "name": "Nongshim Shin Ramyun кеспесі стақан 68г",
+      "source": "https://arzan.kz/kk/astana/p/nongshim-shin-ramyun-kespesi-staqan-68g-a501262b-64c6-4c07-bc30-5366c1371961",
+      "offers": {
+        "metro": 729,
+        "small": 1160,
+        "galmart": 1210
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1616,
+      "name": "Nongshim Шин Кимчи Рамен кеспесі 75г",
+      "source": "https://arzan.kz/kk/astana/p/nongshim-shin-kimchi-ramen-kespesi-75g-3ad4eb3f-b85c-4729-ac12-aeef7316b5d8",
+      "offers": {
+        "metro": 729
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1617,
+      "name": "Ottogi Kimchi Ramen кеспесі 120г",
+      "source": "https://arzan.kz/kk/astana/p/ottogi-kimchi-ramen-kespesi-120g-704bc5f7-987d-463e-a50e-ad0d483cbb2e",
+      "offers": {
+        "galmart": 730,
+        "magnum": 785
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1618,
+      "name": "Паштет Кублей шпротты 160г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-kubley-shprotty-160g-7e3cb27e-42b4-4c94-83fa-4b3349ed64f6",
+      "offers": {
+        "magnum": 735
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1619,
+      "name": "Бұршақ Asanych жасыл 400г",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-asanych-zhasyl-400g-8a02b118-6d9d-46e9-9e7d-e7849085aa01",
+      "offers": {
+        "small": 735
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1620,
+      "name": "Кеспе Ottogi Jin Ramen Mild 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-ottogi-jin-ramen-mild-120g-a877309a-6758-4b86-a287-f8cc30ab52b4",
+      "offers": {
+        "magnum": 739,
+        "galmart": 805,
+        "small": 849
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1621,
+      "name": "Улан арпа ботқасы сиыр еті қосылған 325г",
+      "source": "https://arzan.kz/kk/astana/p/ulan-arpa-botqasy-siyr-eti-qosylghan-325g-e7f27cfe-50a8-41da-9715-1d6955637ed8",
+      "offers": {
+        "metro": 739,
+        "galmart": 870
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1622,
+      "name": "Кеспе Samyang Kimchi Ramen кимчи дәмімен ащы 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-samyang-kimchi-ramen-kimchi-damimen-ashchy-120g-43b9b008-d05a-42d2-af92-c2b979019dcb",
+      "offers": {
+        "metro": 745,
+        "galmart": 1015
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1623,
+      "name": "Жылдам дайындалатын кеспе Ottogi Jin Ramen ащы, 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-ottogi-jin-ramen-ashchy-120g-6a9e7203-869f-4187-b8e4-f65d429e31b7",
+      "offers": {
+        "magnum": 745,
+        "galmart": 805,
+        "small": 849
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1624,
+      "name": "Тунец Пеликан салаттарға арналған табиғи кілтімен 185г",
+      "source": "https://arzan.kz/kk/astana/p/tunets-pelikan-salattargha-arnalghan-tabighi-kiltimen-185g-4a44ab64-a5a5-43c8-9630-ca9fdc6833c1",
+      "offers": {
+        "small": 745,
+        "magnum": 809,
+        "galmart": 900
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1625,
+      "name": "Килька 5 Морей томат соусында Балтийская 240г",
+      "source": "https://arzan.kz/kk/astana/p/kilka-5-morey-tomat-sousynda-baltiyskaya-240g-ea712b24-35c1-4852-803f-c21a526d8e32",
+      "offers": {
+        "small": 749
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1626,
+      "name": "Hame тауық бауырымен паштеті 105г",
+      "source": "https://arzan.kz/kk/astana/p/hame-tauyq-bauyrymen-pashteti-105g-e72597fc-4c61-480c-a845-24f64b94926f",
+      "offers": {
+        "galmart": 750,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1627,
+      "name": "Hame құс етінің паштеті 105г",
+      "source": "https://arzan.kz/kk/astana/p/hame-qus-etining-pashteti-105g-5ab602d1-d8d7-46b5-b222-e33ec94bddf5",
+      "offers": {
+        "galmart": 750,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1628,
+      "name": "Do Ramen тауық еті қосылған ірімшік дәмі бар тез дайындалатын кеспе 106г",
+      "source": "https://arzan.kz/kk/astana/p/do-ramen-tauyq-eti-qosylghan-irimshik-dami-bar-tez-dayyndalatyn-kespe-106g-f804a823-70b5-4bd9-8817-5b0ffc49ef15",
+      "offers": {
+        "small": 755
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1629,
+      "name": "Тунец Пеликан салаттарға арналған майдағы кілтімен 185г",
+      "source": "https://arzan.kz/kk/astana/p/tunets-pelikan-salattargha-arnalghan-maydaghy-kiltimen-185g-2ad73a1e-34b1-4b04-972e-a2b5fa41463d",
+      "offers": {
+        "small": 769,
+        "magnum": 775,
+        "galmart": 1040
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1630,
+      "name": "Жылдам дайындалатын кеспе Nongshim Soon Veggie көкөністі 112г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-soon-veggie-kokonisti-112g-5fd7e038-391d-4cf1-ad62-cf31244a873f",
+      "offers": {
+        "metro": 769
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1631,
+      "name": "Жас жасыл бұршақ Bonduelle кілтімен 212мл",
+      "source": "https://arzan.kz/kk/astana/p/zhas-zhasyl-burshaq-bonduelle-kiltimen-212ml-9fac390f-f9bf-4ed3-86bd-e83cee29bd8f",
+      "offers": {
+        "magnum": 778,
+        "galmart": 845,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1632,
+      "name": "Жылдам дайындалатын кеспе Nongshim Kimchi ірімшік дәмі бар 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-kimchi-irimshik-dami-bar-120g-8c562d4a-3f68-4f88-b686-6545c69699d9",
+      "offers": {
+        "metro": 779,
+        "magnum": 949
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1633,
+      "name": "Жылдам дайындалатын кеспе Do Ramen қуырылған ірімшікті карбонара тауық етімен 111г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-do-ramen-quyrylghan-irimshikti-karbonara-tauyq-etimen-e3eb48c5-6106-478d-be32-23ef2b2ab05e",
+      "offers": {
+        "galmart": 785
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1634,
+      "name": "Жүгері 3 Желания тәтті ірі 340г",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-3-zhelaniya-tatti-iri-340g-eaff33a0-e8ff-4f0c-8ba3-62423d7b7389",
+      "offers": {
+        "small": 785,
+        "galmart": 880
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1635,
+      "name": "Жас бұршақ Bonduelle 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhas-burshaq-bonduelle-425ml-daa89a04-305a-42f6-86aa-697ef9b5f9fa",
+      "offers": {
+        "small": 789,
+        "magnum": 1045,
+        "metro": 1055
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1636,
+      "name": "Мясной Мир қарақұмық ботқасы сиыр етімен 325г",
+      "source": "https://arzan.kz/kk/astana/p/myasnoy-mir-qaraqumyq-botqasy-siyr-etimen-325g-6f2ba586-5943-4134-a63d-8263bb9fb433",
+      "offers": {
+        "small": 789
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1637,
+      "name": "Мясной Мир перл жармасы сиыр етімен 325г",
+      "source": "https://arzan.kz/kk/astana/p/myasnoy-mir-perl-zharmasy-siyr-etimen-325g-174114d1-ef6d-4465-b3ba-a498763c3beb",
+      "offers": {
+        "small": 789
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1638,
+      "name": "Балтық килькасы Кублей бөлшектелмеген томат тұздығында кілтімен 240г",
+      "source": "https://arzan.kz/kk/astana/p/baltyq-kilkasy-kubley-bolshektelmegen-tomat-tuzdyghynda-kiltimen-240g-03a634c5-ec06-4091-a5da-c8c16d9e5cd5",
+      "offers": {
+        "small": 795
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1639,
+      "name": "Қарақұмық ботқасы Bizhan сиыр етімен 250г",
+      "source": "https://arzan.kz/kk/astana/p/qaraqumyq-botqasy-bizhan-siyr-etimen-250g-d47015b0-1cc0-4311-8543-164292051929",
+      "offers": {
+        "small": 795
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1640,
+      "name": "Жылдам дайындалатын кеспе Nongshim кимчи дәмі бар 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-kimchi-dami-bar-120g-e5042bbd-ba5f-4051-a002-bb271897bb1e",
+      "offers": {
+        "metro": 799,
+        "galmart": 1070
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1641,
+      "name": "Паста Санта Бремор тунец пен лосось қосылған 140г",
+      "source": "https://arzan.kz/kk/astana/p/pasta-santa-bremor-tunets-pen-losos-qosylghan-140g-67da4aa6-6f2d-4dc1-bcb4-24d522c92bcc",
+      "offers": {
+        "magnum": 805
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1642,
+      "name": "Bizhan тауық ветчинасы 250г",
+      "source": "https://arzan.kz/kk/astana/p/bizhan-tauyq-vetchinasy-250g-61719129-b066-4569-ab13-e9283cae018a",
+      "offers": {
+        "small": 805
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1643,
+      "name": "Лапша Nongshim Shin Ramyun қуырылған 131г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-nongshim-shin-ramyun-quyrylghan-131g-b6e4cf4b-210f-487c-834c-802ed8480770",
+      "offers": {
+        "metro": 809,
+        "magnum": 988,
+        "small": 1265
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1644,
+      "name": "Лапша DO RAMEN Food Fry қос ірімшік және тауық дәмі 113г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-do-ramen-food-fry-qos-irimshik-zhane-tauyq-dami-113g-233b4749-8b4b-47fa-9e74-f647a1dc5320",
+      "offers": {
+        "small": 809,
+        "magnum": 823
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1645,
+      "name": "Podravka тауық бауырынан жасалған паштеті 100г",
+      "source": "https://arzan.kz/kk/astana/p/podravka-tauyq-bauyrynan-zhasalghan-pashteti-100g-f1286497-0a64-417f-b63e-4dc430d934f6",
+      "offers": {
+        "magnum": 815,
+        "galmart": 1020,
+        "small": 1035
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1646,
+      "name": "Шпроттар Кублей майлы 160г",
+      "source": "https://arzan.kz/kk/astana/p/shprottar-kubley-mayly-160g-58ca79fe-8b95-4977-a3b1-43acfd9f1714",
+      "offers": {
+        "small": 815
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1647,
+      "name": "Do Food Ramen кимчи/ірімшік/сиыр еті қосылған дайын лапша, 109г",
+      "source": "https://arzan.kz/kk/astana/p/do-food-ramen-kimchi-irimshik-siyr-eti-qosylghan-dayyn-lapsha-109g-5e67bac6-8b3f-4e6a-8d7d-fcc751e43317",
+      "offers": {
+        "small": 819,
+        "galmart": 820
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1648,
+      "name": "Кеспе Do Ramen кимчи сиыр етімен ащы 109г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-do-ramen-kimchi-siyr-etimen-ashchy-109g-1a49435b-47bc-4bc2-98f0-0bedc17ad63e",
+      "offers": {
+        "galmart": 820,
+        "magnum": 860,
+        "small": 899
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1649,
+      "name": "Жылдам дайындалатын кеспе Do Ramen сиыр еті мен ірімшік дәмі бар 112г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-do-ramen-siyr-eti-men-irimshik-dami-bar-112g-6b22cb29-a3c5-4898-ab6e-dd3200eed65a",
+      "offers": {
+        "galmart": 820
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1650,
+      "name": "Қиярлар Globus корнишоны арша жидектерімен маринадталған 500мл",
+      "source": "https://arzan.kz/kk/astana/p/qiyarlar-globus-kornishony-arsha-zhidekterimen-marinadtalghan-500ml-3ccdab1d-9dc8-4ada-aa29-ddedccfdf8cf",
+      "offers": {
+        "galmart": 820,
+        "magnum": 1389
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1651,
+      "name": "Қызанақтар Green Ray маринадталған 720г",
+      "source": "https://arzan.kz/kk/astana/p/qyzanaqtar-green-ray-marinadtalghan-720g-677e14d3-c082-43b9-96c2-43f325fb5c4c",
+      "offers": {
+        "small": 825
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1652,
+      "name": "Жүгері Lorado тәтті кілтімен 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-lorado-tatti-kiltimen-425ml-19d6a8a4-728b-4b32-9ee1-5afa0588cceb",
+      "offers": {
+        "magnum": 835,
+        "small": 879
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1653,
+      "name": "Лапша Доширак Сытный обед сиыр еті 110г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-doshirak-sytnyy-obed-siyr-eti-110g-cc4cccfc-4502-4851-9a52-be27e13f880c",
+      "offers": {
+        "galmart": 835
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1654,
+      "name": "Доширак Сытный обед тауық дәмі бар тез пісетін кеспе 110г",
+      "source": "https://arzan.kz/kk/astana/p/doshirak-sytnyy-obed-tauyq-dami-bar-tez-pisetin-kespe-110g-427aad5a-4a62-45f8-afb6-45416b49884b",
+      "offers": {
+        "galmart": 835,
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1655,
+      "name": "Үрме бұршақ Globus ақ қызанақ тұздығында консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/urme-burshaq-globus-aq-qyzanaq-tuzdyghynda-konservilengen-425ml-262d7e30-742f-4eb4-8de0-49bd8b676498",
+      "offers": {
+        "small": 839,
+        "magnum": 979,
+        "galmart": 995
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1656,
+      "name": "Балтық килькасы За Родину бөлшектелмеген қуырылған томат тұздығында кілтімен 240г",
+      "source": "https://arzan.kz/kk/astana/p/baltyq-kilkasy-za-rodinu-bolshektelmegen-quyrylghan-tomat-tuzdyghynda-kiltimen-2-735857a9-9ea6-4137-bdb3-be827346e845",
+      "offers": {
+        "magnum": 839
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1657,
+      "name": "Lorado саңырауқұлақтары, кесілген шампиньондар 314мл",
+      "source": "https://arzan.kz/kk/astana/p/lorado-sangyrauqulaqtary-kesilgen-shampinondar-314ml-d2d31b37-a4f8-4f2d-b547-f22920f974d7",
+      "offers": {
+        "galmart": 840
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1658,
+      "name": "Кублей ет тефтельдері бульонмен 240г",
+      "source": "https://arzan.kz/kk/astana/p/kubley-et-teftelderi-bulonmen-240g-5a516f26-d71a-4ea9-9050-e42d94269b06",
+      "offers": {
+        "small": 840
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1659,
+      "name": "Шампиньондар Выгодно туралған 850мл",
+      "source": "https://arzan.kz/kk/astana/p/shampinondar-vygodno-turalghan-850ml-d075836e-d207-41e1-9a48-cb33e1d46088",
+      "offers": {
+        "small": 849
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1660,
+      "name": "Қарақұмық ботқасы Улан сиыр етімен 325г",
+      "source": "https://arzan.kz/kk/astana/p/qaraqumyq-botqasy-ulan-siyr-etimen-325g-c3073c54-904c-4633-afa8-3ccffa7f58d2",
+      "offers": {
+        "metro": 849,
+        "galmart": 950
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1661,
+      "name": "Шпроттар Кублей майдағы ысталған 160г",
+      "source": "https://arzan.kz/kk/astana/p/shprottar-kubley-maydaghy-ystalghan-160g-186a428d-b83e-48fb-9961-d6b63f3a20a1",
+      "offers": {
+        "small": 850,
+        "magnum": 945
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1662,
+      "name": "Кәрісше сәбіз Соленыч 450г",
+      "source": "https://arzan.kz/kk/astana/p/karisshe-sabiz-solenych-450g-b68e6a54-f660-4ae6-a0c9-7ef28255d67d",
+      "offers": {
+        "magnum": 855,
+        "galmart": 870
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1663,
+      "name": "Spar треска бауыры Мурманша, сүттерімен 240г",
+      "source": "https://arzan.kz/kk/astana/p/spar-treska-bauyry-murmansha-sutterimen-240g-958a7afc-d5d6-4aa9-b885-c888ff331d7b",
+      "offers": {
+        "small": 855
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1664,
+      "name": "Лапша Samyang Ramen ірімшік дәмімен 120г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-samyang-ramen-irimshik-damimen-120g-b855e8c4-1083-4378-ac20-27c56a9f585b",
+      "offers": {
+        "small": 865,
+        "galmart": 1100
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1665,
+      "name": "Рамен Bul Ramen Spicy Chicken 137.8г",
+      "source": "https://arzan.kz/kk/astana/p/ramen-bul-ramen-spicy-chicken-137-8g-bcc32c7f-eaa7-44c1-86d9-a6d03d0ed8c0",
+      "offers": {
+        "small": 869,
+        "galmart": 1250
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1666,
+      "name": "Жасұсақ Naturella жасыл 400г",
+      "source": "https://arzan.kz/kk/astana/p/zhasusaq-naturella-zhasyl-400g-72d4676a-d867-4073-91ef-6316dd7be8ba",
+      "offers": {
+        "small": 875
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1667,
+      "name": "Лечо Leto Mix томатты соуста кесілген 430г",
+      "source": "https://arzan.kz/kk/astana/p/lecho-leto-mix-tomatty-sousta-kesilgen-430g-e932a931-1c36-4428-9e35-f3de4f07a4e6",
+      "offers": {
+        "small": 875
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1668,
+      "name": "Жүгері Naturella тәтті дән түріндегі 340г",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-naturella-tatti-dan-turindegi-340g-fb4f09a4-7ba8-43bf-afca-02c88a5af90b",
+      "offers": {
+        "small": 875
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1669,
+      "name": "Қырыққабат Соленыч ашытылған 850г",
+      "source": "https://arzan.kz/kk/astana/p/qyryqqabat-solenych-ashytylghan-850g-dc8d1485-a283-4a4a-bd58-e1bb70d66340",
+      "offers": {
+        "galmart": 880,
+        "metro": 1149
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1670,
+      "name": "Шпроты Русский Рыбный Мир балтық килькасынан майда 160г",
+      "source": "https://arzan.kz/kk/astana/p/shproty-russkiy-rybnyy-mir-baltyq-kilkasynan-mayda-160g-9b037643-c09a-447f-b6fe-d06baa0c7d25",
+      "offers": {
+        "metro": 889
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1671,
+      "name": "Паштет Hame француздық етті 105г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-hame-frantsuzdyq-etti-105g-526748e9-0915-461c-b47b-77e63f854e04",
+      "offers": {
+        "small": 890
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1672,
+      "name": "Asanych қуырылған кәділерден жасалған кәді қоспасы 500мл",
+      "source": "https://arzan.kz/kk/astana/p/asanych-quyrylghan-kadilerden-zhasalghan-kadi-qospasy-500ml-f0aa8db4-f3a6-474d-878b-10219194ad67",
+      "offers": {
+        "small": 895
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1673,
+      "name": "Ветчина Bizhan сиыр етінен 250г",
+      "source": "https://arzan.kz/kk/astana/p/vetchina-bizhan-siyr-etinen-250g-eae00fdd-c5cf-42f4-b720-8136a4519d9e",
+      "offers": {
+        "small": 895
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1674,
+      "name": "Кеспе Samyang Hot Chicken Ramen ащы 140г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-samyang-hot-chicken-ramen-ashchy-140g-b9de6b9a-d986-48db-9100-fed68d44e4af",
+      "offers": {
+        "metro": 899,
+        "magnum": 1107,
+        "galmart": 1280
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1675,
+      "name": "Кеспе Master Kan Кимчи рамен тез дайындалатын 70г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-master-kan-kimchi-ramen-tez-dayyndalatyn-70g-090e4c52-f225-44f6-8a4d-38406e774c50",
+      "offers": {
+        "metro": 899,
+        "magnum": 1070,
+        "galmart": 1185
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1676,
+      "name": "Қарақұмық ботқасы Сила Алтайская сиыр еті қосылған кілтімен 340г",
+      "source": "https://arzan.kz/kk/astana/p/qaraqumyq-botqasy-sila-altayskaya-siyr-eti-qosylghan-kiltimen-340g-458a5636-f0a9-4b99-935d-33129f7543a0",
+      "offers": {
+        "magnum": 899
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1677,
+      "name": "Арпа ботқасы Кублей сиыр етімен 325г",
+      "source": "https://arzan.kz/kk/astana/p/arpa-botqasy-kubley-siyr-etimen-325g-8631e473-77aa-4f98-871b-8d9c339b978f",
+      "offers": {
+        "magnum": 899,
+        "small": 985
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1678,
+      "name": "Шпроты Штурвал майлы, кілті бар 160г",
+      "source": "https://arzan.kz/kk/astana/p/shproty-shturval-mayly-kilti-bar-160g-7c2978b0-3465-4daa-b754-d2168a39563c",
+      "offers": {
+        "small": 899
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1679,
+      "name": "Жылдам дайындалатын кеспе Nongshim Кимчи Рамен ірімшік дәмі бар, стақан 70г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-kimchi-ramen-irimshik-dami-bar-staqan-70g-76e98ed6-3897-4b25-b6b0-65cefd71e09a",
+      "offers": {
+        "metro": 899,
+        "galmart": 1160
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1680,
+      "name": "Салат Цин-Каз күзгі 700г",
+      "source": "https://arzan.kz/kk/astana/p/salat-tsin-kaz-kuzgi-700g-b1e0877e-f7ec-46e7-b67a-45555dad4feb",
+      "offers": {
+        "magnum": 905,
+        "small": 1360
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1681,
+      "name": "Жүгері тәтті ірі 425мл",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-tatti-iri-425ml-3bd04689-5c04-4fd4-968e-e1c6d8ea90fe",
+      "offers": {
+        "magnum": 911,
+        "small": 975
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1682,
+      "name": "Рамен Ottogi нәзік ірімшік 111г",
+      "source": "https://arzan.kz/kk/astana/p/ramen-ottogi-nazik-irimshik-111g-7fd4d05d-06ad-4f8e-a3cf-869e9539529c",
+      "offers": {
+        "small": 915,
+        "magnum": 959
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1683,
+      "name": "Кеспе Ottogi Bodlebodle Spicy Cheese Ramen 111г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-ottogi-bodlebodle-spicy-cheese-ramen-111g-b867f378-071c-40fa-bafa-b4d22ba4225c",
+      "offers": {
+        "small": 915,
+        "magnum": 959
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1684,
+      "name": "Bonduelle тәтті бұрыш қосылған брускетта тағамдары 250мл",
+      "source": "https://arzan.kz/kk/astana/p/bonduelle-tatti-burysh-qosylghan-brusketta-taghamdary-250ml-f58b3f8b-19d8-41ae-a256-87d42b6fcccb",
+      "offers": {
+        "magnum": 915,
+        "small": 1069,
+        "galmart": 1485
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1685,
+      "name": "Жылдам дайындалатын кеспе Samyang Hot Chicken тауық еті мен ірімшік дәмі бар 140г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-samyang-hot-chicken-tauyq-eti-men-irimshik-dami-bar-1-7b0efcba-e965-4adc-acae-4e880cfe8c41",
+      "offers": {
+        "magnum": 925,
+        "small": 1029,
+        "metro": 1059
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1686,
+      "name": "Закуска Bonduelle баклажаннан жасалған брускетта 220г",
+      "source": "https://arzan.kz/kk/astana/p/zakuska-bonduelle-baklazhannan-zhasalghan-brusketta-220g-64ffaa6f-926f-400f-9a10-35c34ed4a271",
+      "offers": {
+        "magnum": 925,
+        "small": 1069,
+        "metro": 1258
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1687,
+      "name": "Үрме бұршақ Bonduelle барбекю соусындағы консервіленген 400г",
+      "source": "https://arzan.kz/kk/astana/p/urme-burshaq-bonduelle-barbekyu-sousyndaghy-konservilengen-400g-4c1942d6-1aed-4106-bc13-12891a16b97f",
+      "offers": {
+        "magnum": 925,
+        "small": 1510
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1688,
+      "name": "Ottogi Jin Ramen Mild Cup кеспесі 65г",
+      "source": "https://arzan.kz/kk/astana/p/ottogi-jin-ramen-mild-cup-kespesi-65g-225261a9-d69b-4655-92e1-f99b2e72bf3b",
+      "offers": {
+        "magnum": 925,
+        "small": 939,
+        "galmart": 940
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1689,
+      "name": "Килька 5 Морей каспийлік томат тұзды соусында қуырылған бөлінбеген кілтімен 240г",
+      "source": "https://arzan.kz/kk/astana/p/kilka-5-morey-kaspiylik-tomat-tuzdy-sousynda-quyrylghan-bolinbegen-kiltimen-240g-9276382d-0a4f-46c8-b5c9-5ad3633815d1",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1690,
+      "name": "Асбалаңай икрасы Asanych 500г",
+      "source": "https://arzan.kz/kk/astana/p/asbalangay-ikrasy-asanych-500g-285d8b28-d715-4809-83cd-6e3a6c2a4d9b",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1691,
+      "name": "Томаттар Green Ray тазаланған томат шырынында 720мл",
+      "source": "https://arzan.kz/kk/astana/p/tomattar-green-ray-tazalanghan-tomat-shyrynynda-720ml-3e0b7098-4126-43ea-bef0-f0603cfc76ef",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1692,
+      "name": "Navi маринадталған ащы халапеньо бұрышы 350мл",
+      "source": "https://arzan.kz/kk/astana/p/navi-marinadtalghan-ashchy-khalapeno-buryshy-350ml-4d536ea8-1dcc-4159-bcd4-89e5e44e8bd1",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1693,
+      "name": "Asanych әуесқой көкөніс уылдығы 500г",
+      "source": "https://arzan.kz/kk/astana/p/asanych-auesqoy-kokonis-uyldyghy-500g-0f07cca0-ee6e-4b2d-8ad6-fa7511e03745",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1694,
+      "name": "Vit Vit маринадталған қияр 720мл",
+      "source": "https://arzan.kz/kk/astana/p/vit-vit-marinadtalghan-qiyar-720ml-a52eb71b-e50d-4f60-86f7-a7ef0382c2f1",
+      "offers": {
+        "small": 925
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1695,
+      "name": "Лапша OTTOGI Jin Ramen ащы 65г",
+      "source": "https://arzan.kz/kk/astana/p/lapsha-ottogi-jin-ramen-ashchy-65g-cf29140b-cae6-44e6-8f13-9ff2945232d8",
+      "offers": {
+        "small": 939,
+        "galmart": 940,
+        "magnum": 989
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1696,
+      "name": "Бұршақ Lorado ақ, томат тұздығында 425мл",
+      "source": "https://arzan.kz/kk/astana/p/burshaq-lorado-aq-tomat-tuzdyghynda-425ml-9bb4fbc0-efbf-4ace-b925-87ab8f523e12",
+      "offers": {
+        "metro": 939,
+        "galmart": 1095
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1697,
+      "name": "Қызыл бұршақ Lorado консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/qyzyl-burshaq-lorado-konservilengen-425ml-b01d9528-7ee3-4890-9f21-7f5c2a4a19cf",
+      "offers": {
+        "metro": 939,
+        "small": 1075,
+        "magnum": 1079
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1698,
+      "name": "LORADO ақ бұршақ, 425мл",
+      "source": "https://arzan.kz/kk/astana/p/lorado-aq-burshaq-425ml-179fc759-a63c-451c-9350-c7d15b2c177c",
+      "offers": {
+        "metro": 939
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1699,
+      "name": "Үрме бұршақ Bonduelle ақ қызанақ тұздығында консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/urme-burshaq-bonduelle-aq-qyzanaq-tuzdyghynda-konservilengen-425ml-6de5e2f5-dc14-4484-9d0d-307223889f5b",
+      "offers": {
+        "magnum": 949,
+        "metro": 999,
+        "galmart": 1080
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1700,
+      "name": "Vit Vit корнишон пикули 350мл",
+      "source": "https://arzan.kz/kk/astana/p/vit-vit-kornishon-pikuli-350ml-661e9e8a-3c68-41e0-95b4-e8250f1e4166",
+      "offers": {
+        "small": 949
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1701,
+      "name": "Ананас Выгодно сақина түріндегі сиропта 580мл",
+      "source": "https://arzan.kz/kk/astana/p/ananas-vygodno-saqina-turindegi-siropta-580ml-f13ba16f-d658-4878-9d76-207c18c10839",
+      "offers": {
+        "small": 949
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1702,
+      "name": "Сұлы ботқасы Увелка құлпынайлы тез дайындалатын 5x40г",
+      "source": "https://arzan.kz/kk/astana/p/suly-botqasy-uvelka-qulpynayly-tez-dayyndalatyn-5x40g-bf22e935-6903-4002-81a9-8956be7f4dfb",
+      "offers": {
+        "galmart": 950,
+        "small": 1065
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1703,
+      "name": "Үрме бұршақ Globus ақ консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/urme-burshaq-globus-aq-konservilengen-425ml-2402c803-62f3-47c5-be69-eb4b5a7175bc",
+      "offers": {
+        "magnum": 955,
+        "small": 1050
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1704,
+      "name": "Қызыл бұршақ Bonduelle консервіленген 425мл",
+      "source": "https://arzan.kz/kk/astana/p/qyzyl-burshaq-bonduelle-konservilengen-425ml-bcb4aeb8-fbed-4442-8c9e-0fc22638d7db",
+      "offers": {
+        "small": 955,
+        "metro": 959,
+        "magnum": 1139
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1705,
+      "name": "Кублей қазақша бұқтырылған еті 290г",
+      "source": "https://arzan.kz/kk/astana/p/kubley-qazaqsha-buqtyrylghan-eti-290g-0867425f-753e-4b51-b040-cda934ff106f",
+      "offers": {
+        "magnum": 959
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1706,
+      "name": "Үзбе Скатерть-Самобранка қызыл консервіленген 400г",
+      "source": "https://arzan.kz/kk/astana/p/uzbe-skatert-samobranka-qyzyl-konservilengen-400g-69b64be5-c48a-4f9c-a039-dba05066655f",
+      "offers": {
+        "magnum": 959,
+        "small": 1000,
+        "galmart": 1015
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1707,
+      "name": "Жүгері Asanych 340г",
+      "source": "https://arzan.kz/kk/astana/p/zhugeri-asanych-340g-de9e47b0-68ba-404c-9f0a-c3ca1afc59bc",
+      "offers": {
+        "small": 965
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1708,
+      "name": "FISH MASTER консервтері тунец табиғи макрельді 240г",
+      "source": "https://arzan.kz/kk/astana/p/fish-master-konservteri-tunets-tabighi-makreldi-240g-3c5ffb6b-e525-4663-87b9-ee7abe75f68f",
+      "offers": {
+        "small": 965
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1709,
+      "name": "Фунчоза Energy Grito сиыр еті 95г",
+      "source": "https://arzan.kz/kk/astana/p/funchoza-energy-grito-siyr-eti-95g-2550504c-36cb-4d60-a0f9-989379a4bef7",
+      "offers": {
+        "galmart": 970
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1710,
+      "name": "Фунчоза Energy Grito тауықпен 90г",
+      "source": "https://arzan.kz/kk/astana/p/funchoza-energy-grito-tauyqpen-90g-f1cde137-fbd5-4548-8290-f539a50fd696",
+      "offers": {
+        "galmart": 970
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1711,
+      "name": "Скатерть Самобранка жасыл бұршақ 425мл",
+      "source": "https://arzan.kz/kk/astana/p/skatert-samobranka-zhasyl-burshaq-425ml-98c53851-3f3e-48c9-8737-ecaef87779be",
+      "offers": {
+        "small": 975
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1712,
+      "name": "Жылдам дайындалатын кеспе Nongshim Chapagetti қара бұршақ соусымен 140г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-chapagetti-qara-burshaq-sousymen-140g-0ed50756-cace-4832-9b8d-e8ff98453bf8",
+      "offers": {
+        "magnum": 988
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1713,
+      "name": "Килька За Родину томат соусында 240г",
+      "source": "https://arzan.kz/kk/astana/p/kilka-za-rodinu-tomat-sousynda-240g-de8f02eb-8e94-4974-a0cc-90d1607956ab",
+      "offers": {
+        "magnum": 989,
+        "galmart": 1030
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1714,
+      "name": "Үзбе Скатерть Самобранка ақ табиғи 400г",
+      "source": "https://arzan.kz/kk/astana/p/uzbe-skatert-samobranka-aq-tabighi-400g-a2b8fcaf-737d-4794-a50d-a6006f24e6f7",
+      "offers": {
+        "small": 1000
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1715,
+      "name": "Ананас SK кесектері шәрбатта 565г",
+      "source": "https://arzan.kz/kk/astana/p/ananas-sk-kesekteri-sharbatta-565g-9393aedf-569d-4483-a4e1-db1f92c2e4a7",
+      "offers": {
+        "small": 1005,
+        "magnum": 1019
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1716,
+      "name": "Vit Vit көкөніс икрасы, шапқылалы 500мл",
+      "source": "https://arzan.kz/kk/astana/p/vit-vit-kokonis-ikrasy-shapqylaly-500ml-048097b9-4484-49b7-9380-180c13221e67",
+      "offers": {
+        "small": 1005
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1717,
+      "name": "Тунец Celeste майдағы салаттар үшін 185г",
+      "source": "https://arzan.kz/kk/astana/p/tunets-celeste-maydaghy-salattar-ushin-185g-a5bf6f35-4376-4cf0-9c09-691e909aa214",
+      "offers": {
+        "galmart": 1010
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1718,
+      "name": "Samyang Hot Chicken Ramen creamy carbonara кеспесі 140г",
+      "source": "https://arzan.kz/kk/astana/p/samyang-hot-chicken-ramen-creamy-carbonara-kespesi-140g-30b4ff84-cc0c-40be-bbb5-b71d69bbd50d",
+      "offers": {
+        "metro": 1015,
+        "small": 1049,
+        "magnum": 1086
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1719,
+      "name": "Жылдам дайындалатын кеспе Nongshim Neoguri теңіз өнімдерімен ащы 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-neoguri-tengiz-onimderimen-ashchy-120g-f6e03b95-8234-4682-9c50-52de0b3a06e2",
+      "offers": {
+        "galmart": 1015,
+        "small": 1015
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1720,
+      "name": "Жылдам дайындалатын кеспе Nongshim Ramyun балшық ыдыста 120г",
+      "source": "https://arzan.kz/kk/astana/p/zhyldam-dayyndalatyn-kespe-nongshim-ramyun-balshyq-ydysta-120g-5810615e-8f5f-4d7c-be32-08bd2ffe746f",
+      "offers": {
+        "galmart": 1015
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1721,
+      "name": "Паштет Podravka тауық етінен көкөністермен 100г",
+      "source": "https://arzan.kz/kk/astana/p/pashtet-podravka-tauyq-etinen-kokonistermen-100g-3db39c19-34c4-4075-961f-55670462eb67",
+      "offers": {
+        "galmart": 1020,
+        "small": 1035
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1722,
+      "name": "Кеспе Master Kan бұқтырылған сиыр еті және омлетпен 150г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-master-kan-buqtyrylghan-siyr-eti-zhane-omletpen-150g-66199f0b-332c-4503-a7ad-346611136f7e",
+      "offers": {
+        "magnum": 1025
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1723,
+      "name": "Сүйексіз жасыл зәйтүндер Yore 337мл",
+      "source": "https://arzan.kz/kk/astana/p/suyeksiz-zhasyl-zaytunder-yore-337ml-55865540-dd21-4e12-b7c0-8f707d27533a",
+      "offers": {
+        "small": 1025
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1724,
+      "name": "Кеспе Nongshim Shin Ramyun ащы 120г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-nongshim-shin-ramyun-ashchy-120g-92c12022-79bf-4761-8aee-351f407d2c6b",
+      "offers": {
+        "small": 1025,
+        "galmart": 1070
+      },
+      "image_embedded": true
+    },
+    {
+      "id": 1725,
+      "name": "Кеспе Samyang Рамен сиыр еті дәмімен 65г",
+      "source": "https://arzan.kz/kk/astana/p/kespe-samyang-ramen-siyr-eti-damimen-65g-d157e094-028f-4314-a7e9-621b451a0249",
+      "offers": {
+        "galmart": 1030,
+        "small": 1110
+      },
+      "image_embedded": true
+    }
+  ]
+}

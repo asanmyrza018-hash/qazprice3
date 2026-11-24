@@ -1,0 +1,62 @@
+{
+  "source": "https://arzan.kz/kk/astana/catalog",
+  "capturedAt": "2026-11-11",
+  "coverage": "All 11 visible Astana store filter options; 8 store-page links exposed by footer, unavailable links remain null.",
+  "stores": [
+    {
+      "name": "Galmart",
+      "logo": "https://api.arzan.kz/media/chain_logos/galmart-icon-v1.png",
+      "url": "https://arzan.kz/kk/astana/stores/galmart"
+    },
+    {
+      "name": "MagnumGO",
+      "logo": "https://api.arzan.kz/media/chain_logos/magnum.png",
+      "url": "https://arzan.kz/kk/astana/stores/mgo"
+    },
+    {
+      "name": "METRO",
+      "logo": "https://api.arzan.kz/media/chain_logos/metro-icon-v1.png",
+      "url": "https://arzan.kz/kk/astana/stores/metro"
+    },
+    {
+      "name": "Small",
+      "logo": "https://api.arzan.kz/media/chain_logos/Small.png",
+      "url": "https://arzan.kz/kk/astana/stores/smallfood"
+    },
+    {
+      "name": "Arbuz",
+      "logo": "https://api.arzan.kz/media/chain_logos/Arbuz.png",
+      "url": "https://arzan.kz/kk/astana/stores/arbuz"
+    },
+    {
+      "name": "AyanMarket",
+      "logo": "https://api.arzan.kz/media/chain_logos/ayan.jpeg",
+      "url": "https://arzan.kz/kk/astana/stores/ayanmarket"
+    },
+    {
+      "name": "Choco Рядом",
+      "logo": "https://api.arzan.kz/media/chain_logos/choco.webp",
+      "url": "https://arzan.kz/kk/astana/stores/ryadom"
+    },
+    {
+      "name": "Fix Price",
+      "logo": "https://api.arzan.kz/media/chain_logos/fixprice.png",
+      "url": "https://arzan.kz/kk/astana/stores/fixprice"
+    },
+    {
+      "name": "Детский Мир",
+      "logo": "https://api.arzan.kz/media/chain_logos/dm.webp",
+      "url": null
+    },
+    {
+      "name": "Жанұя Оптомаркет",
+      "logo": "https://api.arzan.kz/media/chain_logos/zhanuya-d881f10e54a58c3f.jpg",
+      "url": null
+    },
+    {
+      "name": "Яндекс Лавка",
+      "logo": "https://api.arzan.kz/media/chain_logos/lavka.png",
+      "url": null
+    }
+  ]
+}
